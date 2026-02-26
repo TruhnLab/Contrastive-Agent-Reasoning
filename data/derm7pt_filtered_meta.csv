@@ -1,0 +1,510 @@
+case_num,diagnosis,seven_point_score,pigment_network,streaks,pigmentation,regression_structures,dots_and_globules,blue_whitish_veil,vascular_structures,level_of_diagnostic_difficulty,elevation,location,sex,management,clinic,derm,case_id,notes,melanoma,atypical_nevus
+43,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,low,nodular,acral,female,no further examination,NFL/Nfl039.jpg,NFL/Nfl040.jpg,,,0.0,1.0
+44,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,low,palpable,head neck,male,no further examination,NFL/Nfl045.jpg,NFL/Nfl046.jpg,,,0.0,1.0
+45,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,low,palpable,lower limbs,male,no further examination,NFL/Nfl047.jpg,NFL/Nfl048.jpg,,,0.0,1.0
+46,blue nevus,2,typical,absent,absent,absent,absent,present,absent,medium,nodular,upper limbs,female,excision,NFL/Nfl049.jpg,NFL/Nfl050.jpg,,,0.0,1.0
+47,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,low,palpable,head neck,female,clinical follow up,NGL/Ngl071.jpg,NGL/Ngl072.jpg,,,0.0,1.0
+48,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,medium,flat,buttocks,male,clinical follow up,NGL/Ngl089.jpg,NGL/Ngl090.jpg,,,0.0,1.0
+49,blue nevus,0,absent,absent,diffuse regular,absent,regular,absent,absent,low,nodular,acral,male,no further examination,NML/Nml042.jpg,NML/Nml043.jpg,,,0.0,1.0
+50,blue nevus,2,typical,absent,absent,absent,absent,present,absent,low,palpable,lower limbs,female,no further examination,NML/Nml086.jpg,NML/Nml087.jpg,,,0.0,1.0
+51,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,low,nodular,upper limbs,female,no further examination,NML/Nml088.jpg,NML/Nml089.jpg,,,0.0,1.0
+52,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,low,flat,acral,male,no further examination,A1l/Aal067.jpg,A1l/Aal068.jpg,,,0.0,1.0
+53,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,medium,palpable,upper limbs,male,excision,Adl/Adl324.jpg,Adl/Adl325.jpg,,,0.0,1.0
+54,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,medium,palpable,chest,male,excision,Ael/Ael441.jpg,Ael/Ael442.jpg,,,0.0,1.0
+55,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,medium,flat,back,female,clinical follow up,Ael/Ael443.jpg,Ael/Ael444.jpg,,,0.0,1.0
+56,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,medium,flat,head neck,female,excision,Ael/Ael445.jpg,Ael/Ael446.jpg,,,0.0,1.0
+57,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,low,palpable,lower limbs,female,no further examination,Ael/Ael507.jpg,Ael/Ael508.jpg,,,0.0,1.0
+58,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,medium,palpable,back,male,excision,Ael/Ael509.jpg,Ael/Ael510.jpg,,,0.0,1.0
+59,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,low,palpable,back,female,no further examination,Ael/Ael511.jpg,Ael/Ael512.jpg,,,0.0,1.0
+60,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,low,flat,lower limbs,female,clinical follow up,Gzl/gzl23.jpg,Gzl/gzl24.jpg,,,0.0,1.0
+61,blue nevus,2,absent,absent,absent,absent,regular,present,arborizing,medium,palpable,lower limbs,female,clinical follow up,Gzl/gzl87.jpg,Gzl/gzl88.jpg,,,0.0,1.0
+62,blue nevus,1,absent,irregular,diffuse regular,absent,absent,absent,absent,medium,palpable,back,female,excision,Gzl/gzl41.jpg,Gzl/gzl42.jpg,,,0.0,1.0
+63,blue nevus,2,absent,absent,absent,absent,regular,present,absent,medium,palpable,back,female,clinical follow up,FAL/Fal010.jpg,FAL/Fal012.jpg,,,0.0,1.0
+64,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,high,nodular,lower limbs,female,excision,FBL/FBL031.JPG,FBL/FBL032.JPG,,,0.0,1.0
+65,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,medium,palpable,upper limbs,female,excision,FCL/FCL087.JPG,FCL/Fcl088.jpg,,,0.0,1.0
+66,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,high,nodular,upper limbs,male,excision,FDL/Fdl025.jpg,FDL/FDL026.JPG,,,0.0,1.0
+67,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,arborizing,low,palpable,back,female,clinical follow up,Ggl/Ggl003.jpg,Ggl/Ggl004.jpg,,,0.0,1.0
+68,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,medium,palpable,head neck,female,clinical follow up,Ggl/Ggl005.jpg,Ggl/Ggl006.jpg,,,0.0,1.0
+69,blue nevus,1,absent,absent,diffuse irregular,absent,absent,absent,absent,medium,palpable,upper limbs,female,excision,Fgl/Fgl062.jpg,Fgl/Fgl063.jpg,,,0.0,1.0
+70,blue nevus,0,absent,absent,diffuse regular,absent,absent,absent,absent,low,nodular,lower limbs,female,no further examination,Fgl/Fgl049.jpg,Fgl/Fgl090.jpg,,,0.0,1.0
+71,clark nevus,1,typical,absent,absent,blue areas,regular,absent,absent,medium,palpable,back,female,excision,NDL/Ndl006.jpg,NDL/Ndl005.jpg,,,0.0,1.0
+74,clark nevus,1,typical,irregular,absent,absent,absent,absent,absent,high,palpable,lower limbs,female,excision,NBL/Nbl085.jpg,NBL/Nbl086.jpg,,,0.0,1.0
+76,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,female,clinical follow up,NBL/Nbl097.jpg,NBL/Nbl098.jpg,,,0.0,1.0
+78,clark nevus,1,typical,irregular,diffuse regular,absent,regular,absent,absent,medium,flat,abdomen,male,clinical follow up,NCL/Ncl005.jpg,NCL/Ncl006.jpg,,,0.0,1.0
+80,clark nevus,0,typical,absent,absent,absent,absent,absent,absent,low,flat,back,female,clinical follow up,NCL/Ncl009.jpg,NCL/Ncl010.jpg,,,0.0,1.0
+86,clark nevus,0,typical,absent,diffuse regular,absent,absent,absent,absent,low,flat,back,female,clinical follow up,NCL/Ncl043.jpg,NCL/Ncl044.jpg,,,0.0,1.0
+87,clark nevus,1,typical,absent,absent,absent,irregular,absent,absent,medium,flat,abdomen,female,clinical follow up,NCL/Ncl047.jpg,NCL/Ncl048.jpg,,,0.0,1.0
+88,clark nevus,4,atypical,irregular,absent,blue areas,absent,absent,absent,medium,flat,upper limbs,female,excision,NCL/Ncl049.jpg,NCL/Ncl050.jpg,,,0.0,1.0
+89,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,palpable,back,female,clinical follow up,NCL/Ncl052.jpg,NCL/Ncl051.jpg,,,0.0,1.0
+90,clark nevus,2,absent,absent,absent,combinations,irregular,absent,absent,high,palpable,back,male,excision,NCL/Ncl054.jpg,NCL/Ncl053.jpg,,,0.0,1.0
+93,clark nevus,1,typical,absent,absent,absent,irregular,absent,absent,low,palpable,back,female,clinical follow up,NCL/Ncl065.jpg,NCL/Ncl064.jpg,,,0.0,1.0
+95,clark nevus,1,typical,absent,diffuse regular,absent,irregular,absent,absent,low,palpable,chest,male,clinical follow up,NCL/Ncl075.jpg,NCL/Ncl076.jpg,,,0.0,1.0
+96,clark nevus,3,typical,absent,diffuse irregular,combinations,irregular,absent,absent,high,palpable,back,male,excision,NCL/Ncl080.jpg,NCL/Ncl079.jpg,,,0.0,1.0
+101,clark nevus,3,typical,absent,diffuse irregular,combinations,irregular,absent,within regression,high,palpable,lower limbs,female,excision,NDL/ndl014.jpg,NDL/ndl013.jpg,,,0.0,1.0
+102,clark nevus,1,typical,absent,diffuse irregular,absent,regular,absent,absent,low,flat,chest,female,clinical follow up,NDL/Ndl017.jpg,NDL/Ndl018.jpg,1d171819,,0.0,1.0
+104,clark nevus,3,typical,absent,diffuse irregular,absent,regular,absent,dotted,medium,flat,back,male,excision,NDL/Ndl023.jpg,NDL/Ndl022.jpg,,,0.0,1.0
+107,clark nevus,4,absent,absent,absent,combinations,irregular,present,absent,high,palpable,back,female,excision,NDL/Ndl029.jpg,NDL/Ndl028.jpg,,,0.0,1.0
+110,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,abdomen,female,clinical follow up,NDL/NDL034.JPG,NDL/Ndl035.jpg,,,0.0,1.0
+113,clark nevus,4,absent,absent,diffuse irregular,absent,irregular,present,absent,medium,flat,lower limbs,female,excision,NDL/Ndl041.jpg,NDL/Ndl040.jpg,,,0.0,1.0
+116,clark nevus,1,typical,absent,absent,combinations,regular,absent,absent,medium,flat,upper limbs,female,excision,NGL/Ngl022.jpg,NGL/Ngl023.jpg,,,0.0,1.0
+117,clark nevus,0,absent,regular,diffuse regular,absent,regular,absent,absent,low,palpable,lower limbs,female,clinical follow up,NGL/Ngl042.jpg,NGL/Ngl043.jpg,,,0.0,1.0
+126,clark nevus,2,absent,absent,absent,combinations,irregular,absent,within regression,medium,palpable,back,male,excision,NHL/Nhl014.jpg,NHL/Nhl015.jpg,,,0.0,1.0
+127,clark nevus,2,typical,irregular,absent,white areas,regular,absent,within regression,medium,palpable,chest,female,excision,NIL/Nil001.jpg,NIL/Nil002.jpg,,,0.0,1.0
+128,clark nevus,0,absent,regular,absent,absent,absent,absent,absent,medium,flat,acral,female,excision,NIL/Nil005.jpg,NIL/Nil006.jpg,,,0.0,1.0
+130,clark nevus,1,typical,absent,absent,white areas,regular,absent,absent,medium,flat,back,female,excision,NIL/Nil009.jpg,NIL/Nil010.jpg,,,0.0,1.0
+131,clark nevus,1,typical,regular,absent,blue areas,absent,absent,absent,medium,palpable,lower limbs,male,clinical follow up,NIL/Nil020.jpg,NIL/Nil021.jpg,,,0.0,1.0
+134,clark nevus,2,typical,absent,absent,absent,regular,present,absent,low,palpable,abdomen,female,clinical follow up,NIL/Nil032.jpg,NIL/Nil033.jpg,,,0.0,1.0
+137,clark nevus,1,absent,regular,absent,absent,irregular,absent,absent,medium,flat,acral,female,clinical follow up,NIL/Nil042.jpg,NIL/Nil043.jpg,,,0.0,1.0
+141,clark nevus,2,typical,irregular,absent,absent,irregular,absent,absent,high,flat,back,male,excision,NIL/Nil053.jpg,NIL/Nil054.jpg,,,0.0,1.0
+143,clark nevus,2,typical,absent,absent,blue areas,irregular,absent,absent,medium,flat,abdomen,male,excision,NIL/Nil059.jpg,NIL/Nil060.jpg,,,0.0,1.0
+144,clark nevus,1,typical,absent,absent,absent,irregular,absent,absent,low,flat,abdomen,male,clinical follow up,NLL/Nll015.jpg,NLL/Nll016.jpg,,,0.0,1.0
+146,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,lower limbs,male,clinical follow up,NLL/Nll019.jpg,NLL/Nll020.jpg,,,0.0,1.0
+147,clark nevus,2,atypical,absent,absent,absent,regular,absent,absent,medium,flat,upper limbs,female,excision,NLL/Nll021.jpg,NLL/nll022.jpg,,,0.0,1.0
+148,clark nevus,0,typical,absent,diffuse regular,absent,regular,absent,absent,low,flat,lower limbs,female,clinical follow up,NLL/Nll025.jpg,NLL/nll026.jpg,1l252627,,0.0,1.0
+149,clark nevus,0,absent,regular,absent,absent,regular,absent,absent,low,palpable,acral,male,clinical follow up,NLL/nll029.jpg,NLL/Nll030.jpg,,,0.0,1.0
+150,clark nevus,0,absent,regular,absent,absent,regular,absent,absent,low,flat,acral,female,clinical follow up,NLL/nll031.jpg,NLL/nll032.jpg,,,0.0,1.0
+153,clark nevus,0,absent,absent,absent,absent,regular,absent,absent,low,palpable,upper limbs,male,clinical follow up,NLL/NLL045.JPG,NLL/Nll046.jpg,,,0.0,1.0
+155,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,palpable,abdomen,male,clinical follow up,NLL/Nll061.jpg,NLL/Nll062.jpg,,,0.0,1.0
+161,clark nevus,1,typical,absent,absent,blue areas,regular,absent,absent,low,flat,upper limbs,male,clinical follow up,NLL/Nll093.jpg,NLL/Nll094.jpg,,,0.0,1.0
+164,clark nevus,2,typical,absent,localized irregular,absent,irregular,absent,absent,high,flat,lower limbs,female,excision,NLL/Nll103.jpg,NLL/Nll104.jpg,,,0.0,1.0
+165,clark nevus,1,typical,absent,absent,absent,irregular,absent,absent,low,flat,upper limbs,female,clinical follow up,NLL/Nll105.jpg,NLL/Nll106.jpg,,,0.0,1.0
+172,clark nevus,1,typical,absent,diffuse irregular,absent,absent,absent,absent,low,flat,back,female,clinical follow up,NML/Nml033.jpg,NML/Nml034.jpg,1m333435,,0.0,1.0
+175,clark nevus,2,atypical,absent,absent,absent,regular,absent,absent,medium,flat,back,female,clinical follow up,Adl/Adl386.jpg,Adl/Adl387.jpg,,,0.0,1.0
+179,clark nevus,0,absent,regular,absent,absent,regular,absent,absent,low,flat,acral,female,clinical follow up,A2l/Abl115.jpg,A2l/Abl116.jpg,,,0.0,1.0
+180,clark nevus,2,absent,irregular,absent,absent,irregular,absent,absent,medium,flat,acral,female,clinical follow up,A2l/Abl117.jpg,A2l/Abl118.jpg,,,0.0,1.0
+181,clark nevus,0,absent,regular,absent,absent,regular,absent,absent,low,flat,acral,male,clinical follow up,A2l/Abl120.jpg,A2l/Abl121.jpg,,,0.0,1.0
+182,clark nevus,0,absent,regular,absent,absent,absent,absent,absent,low,flat,acral,male,clinical follow up,A2l/Abl122.jpg,A2l/Abl123.jpg,,,0.0,1.0
+184,clark nevus,0,typical,regular,absent,absent,regular,absent,absent,low,flat,acral,female,clinical follow up,A2l/Abl128.jpg,A2l/Abl129.jpg,,,0.0,1.0
+185,clark nevus,0,absent,regular,absent,absent,absent,absent,absent,low,flat,acral,male,clinical follow up,A3l/Acl200.jpg,A3l/Acl201.jpg,,,0.0,1.0
+187,clark nevus,0,absent,regular,absent,absent,regular,absent,absent,low,palpable,acral,male,clinical follow up,A3l/Acl244.jpg,A3l/Acl245.jpg,,,0.0,1.0
+189,clark nevus,0,absent,regular,absent,absent,absent,absent,absent,low,flat,acral,male,clinical follow up,A3l/Acl248.jpg,A3l/Acl249.jpg,,,0.0,1.0
+190,clark nevus,2,absent,irregular,absent,absent,irregular,absent,absent,high,palpable,acral,male,excision,A3l/Acl250.jpg,A3l/Acl251.jpg,,,0.0,1.0
+195,clark nevus,1,absent,regular,absent,blue areas,regular,absent,absent,medium,palpable,acral,male,excision,Adl/Adl374.jpg,Adl/Adl375.jpg,,,0.0,1.0
+197,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,acral,female,clinical follow up,A1l/Aal045.jpg,A1l/Aal046.jpg,,,0.0,1.0
+202,clark nevus,2,absent,irregular,absent,absent,irregular,absent,absent,medium,flat,acral,female,excision,A1l/Aal063.jpg,A1l/Aal064.jpg,,,0.0,1.0
+203,clark nevus,3,absent,irregular,localized irregular,absent,irregular,absent,absent,high,flat,acral,male,excision,A1l/Aal065.jpg,A1l/Aal066.jpg,,,0.0,1.0
+208,clark nevus,0,absent,regular,absent,absent,absent,absent,absent,low,flat,acral,male,clinical follow up,A1l/Aal093.jpg,A1l/Aal094.jpg,,,0.0,1.0
+210,clark nevus,0,absent,regular,absent,absent,regular,absent,absent,low,flat,acral,male,clinical follow up,A1l/Aal099.jpg,A1l/Aal099bis.jpg,,,0.0,1.0
+211,clark nevus,2,typical,absent,diffuse irregular,absent,irregular,absent,absent,medium,palpable,back,male,excision,Ael/Ael476.jpg,Ael/Ael477.jpg,,,0.0,1.0
+212,clark nevus,0,absent,absent,absent,absent,regular,absent,absent,low,flat,back,male,clinical follow up,A2l/Abl134.jpg,A2l/Abl135.jpg,,,0.0,1.0
+216,clark nevus,1,typical,absent,absent,absent,irregular,absent,absent,medium,flat,back,female,excision,A2l/Abl190.jpg,A2l/Abl191.jpg,,,0.0,1.0
+219,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,palpable,lower limbs,female,clinical follow up,A3l/Acl280.jpg,A3l/Acl281.jpg,,,0.0,1.0
+223,clark nevus,1,typical,regular,diffuse irregular,absent,absent,absent,absent,medium,flat,upper limbs,female,clinical follow up,Adl/Adl390.jpg,Adl/Adl391.jpg,,,0.0,1.0
+224,clark nevus,0,typical,absent,absent,absent,absent,absent,absent,low,flat,back,male,clinical follow up,Ael/Ael434.jpg,Ael/Ael435.jpg,,,0.0,1.0
+226,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,medium,flat,abdomen,female,clinical follow up,Ael/Ael480.jpg,Ael/Ael481.jpg,,,0.0,1.0
+228,clark nevus,2,typical,irregular,diffuse irregular,absent,regular,absent,absent,high,flat,back,male,excision,A1l/Aal009.jpg,A1l/Aal010.jpg,,,0.0,1.0
+229,clark nevus,1,typical,absent,absent,combinations,absent,absent,absent,medium,flat,chest,male,excision,A1l/Aal011.jpg,A1l/Aal012.jpg,,,0.0,1.0
+239,clark nevus,2,typical,absent,absent,blue areas,irregular,absent,absent,high,flat,back,male,excision,A2l/Abl164.jpg,A2l/Abl165.jpg,,,0.0,1.0
+243,clark nevus,1,typical,absent,absent,absent,irregular,absent,absent,medium,flat,buttocks,female,clinical follow up,A2l/Abl174.jpg,A2l/Abl175.jpg,,,0.0,1.0
+244,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,buttocks,female,clinical follow up,A2l/Abl176.jpg,A2l/Abl177.jpg,,,0.0,1.0
+246,clark nevus,3,atypical,absent,absent,blue areas,regular,absent,absent,high,flat,upper limbs,female,excision,A2l/Abl184.jpg,A2l/Abl185.jpg,,,0.0,1.0
+247,clark nevus,1,typical,absent,absent,white areas,regular,absent,within regression,medium,flat,back,male,excision,A2l/Abl194.jpg,A2l/Abl195.jpg,,,0.0,1.0
+248,clark nevus,2,typical,absent,diffuse irregular,absent,irregular,absent,absent,high,flat,back,male,excision,A3l/Acl214.jpg,A3l/Acl215.jpg,,,0.0,1.0
+251,clark nevus,2,atypical,absent,absent,absent,absent,absent,comma,medium,palpable,back,female,excision,A3l/Acl234.jpg,A3l/Acl235.jpg,,,0.0,1.0
+252,clark nevus,2,typical,absent,localized irregular,absent,irregular,absent,absent,high,palpable,upper limbs,male,excision,A3l/Acl238.jpg,A3l/Acl239.jpg,,,0.0,1.0
+253,clark nevus,0,typical,absent,absent,absent,absent,absent,absent,low,flat,chest,male,clinical follow up,A3l/Acl240.jpg,A3l/Acl241.jpg,,,0.0,1.0
+263,clark nevus,4,atypical,absent,absent,absent,regular,absent,dotted,medium,flat,back,female,excision,Adl/Adl339.jpg,Adl/Adl340.jpg,,,0.0,1.0
+265,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,medium,palpable,back,male,excision,Adl/Adl347.jpg,Adl/Adl348.jpg,,,0.0,1.0
+266,clark nevus,1,typical,absent,absent,white areas,regular,absent,within regression,medium,flat,back,male,clinical follow up,Adl/Adl349.jpg,Adl/Adl350.jpg,,,0.0,1.0
+267,clark nevus,2,typical,absent,diffuse regular,absent,regular,present,absent,high,flat,chest,male,excision,Adl/Adl355.jpg,Adl/Adl356.jpg,,,0.0,1.0
+269,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,abdomen,female,clinical follow up,Adl/Adl370.jpg,Adl/Adl371.jpg,,,0.0,1.0
+273,clark nevus,2,atypical,absent,absent,absent,regular,absent,absent,medium,flat,lower limbs,male,excision,Ael/Ael430.jpg,Ael/Ael431.jpg,,,0.0,1.0
+279,clark nevus,2,typical,regular,diffuse irregular,absent,irregular,absent,absent,high,palpable,abdomen,female,excision,Ael/Ael516.jpg,Ael/Ael517.jpg,,,0.0,1.0
+281,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,female,clinical follow up,Ael/Ael524.jpg,Ael/Ael525.jpg,,,0.0,1.0
+289,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,male,clinical follow up,Gzl/gzl09.jpg,Gzl/gzl10.jpg,,,0.0,1.0
+290,clark nevus,0,typical,absent,absent,absent,absent,absent,absent,medium,flat,back,male,clinical follow up,Gzl/gzl79.jpg,Gzl/gzl80.jpg,,,0.0,1.0
+293,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,chest,female,clinical follow up,Gzl/gzl31.jpg,Gzl/gzl32.jpg,,,0.0,1.0
+296,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,medium,flat,abdomen,male,clinical follow up,Gzl/gzl53.jpg,Gzl/gzl54.jpg,,,0.0,1.0
+300,clark nevus,2,atypical,absent,absent,absent,regular,absent,absent,medium,flat,back,female,clinical follow up,Gal/Gal024.jpg,Gal/Gal025.jpg,,,0.0,1.0
+302,clark nevus,1,typical,absent,absent,blue areas,regular,absent,absent,medium,flat,back,male,excision,Gal/Gal046.jpg,Gal/Gal047.jpg,,,0.0,1.0
+305,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,female,clinical follow up,Gal/Gal005.jpg,Gal/Gal006.jpg,,,0.0,1.0
+308,clark nevus,2,typical,regular,diffuse irregular,absent,irregular,absent,absent,medium,flat,abdomen,female,excision,Gal/Gal151.jpg,Gal/Gal152.jpg,,,0.0,1.0
+309,clark nevus,1,typical,absent,diffuse irregular,absent,regular,absent,absent,medium,palpable,lower limbs,female,clinical follow up,FAL/Fal019.jpg,FAL/Fal020.jpg,,,0.0,1.0
+316,clark nevus,2,typical,absent,diffuse irregular,absent,irregular,absent,absent,high,palpable,back,male,excision,FAL/Fal053.jpg,FAL/FAL054.JPG,,,0.0,1.0
+317,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,abdomen,female,clinical follow up,FAL/Fal063.jpg,FAL/Fal064.jpg,,,0.0,1.0
+319,clark nevus,1,typical,absent,diffuse irregular,absent,absent,absent,absent,medium,flat,abdomen,male,clinical follow up,FAL/Fal089.jpg,FAL/Fal090.jpg,,,0.0,1.0
+320,clark nevus,1,typical,absent,diffuse irregular,absent,regular,absent,absent,low,palpable,lower limbs,female,clinical follow up,FAL/Fal099.jpg,FAL/Fal100.jpg,,,0.0,1.0
+324,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,palpable,back,male,clinical follow up,FBL/FBL009.JPG,FBL/Fbl010.jpg,,,0.0,1.0
+332,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,female,clinical follow up,FBL/Fbl037.jpg,FBL/Fbl038.jpg,,,0.0,1.0
+333,clark nevus,1,typical,absent,absent,absent,irregular,absent,absent,medium,flat,chest,female,clinical follow up,FBL/FBL043.JPG,FBL/Fbl044.jpg,,,0.0,1.0
+343,clark nevus,2,typical,absent,absent,combinations,irregular,absent,absent,medium,flat,back,female,clinical follow up,FBL/Fbl079.jpg,FBL/Fbl080.jpg,,,0.0,1.0
+346,clark nevus,4,atypical,absent,diffuse irregular,absent,irregular,absent,absent,high,palpable,head neck,male,excision,FBL/Fbl091.jpg,FBL/Fbl092.jpg,,,0.0,1.0
+348,clark nevus,2,typical,absent,localized irregular,absent,irregular,absent,absent,high,palpable,lower limbs,female,excision,FBL/Fbl097.jpg,FBL/Fbl098.jpg,,,0.0,1.0
+351,clark nevus,1,typical,absent,absent,absent,irregular,absent,absent,medium,palpable,back,male,clinical follow up,Fll/Fll038.jpg,Fll/Fll039.jpg,,,0.0,1.0
+355,clark nevus,0,typical,absent,diffuse regular,absent,regular,absent,absent,low,flat,back,male,clinical follow up,FCL/FCL017.JPG,FCL/FCL018.JPG,,,0.0,1.0
+356,clark nevus,4,atypical,absent,localized irregular,blue areas,regular,absent,within regression,high,flat,back,male,excision,Fll/Fll040.jpg,Fll/Fll041.jpg,,,0.0,1.0
+361,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,medium,flat,back,female,excision,FCL/Fcl033.jpg,FCL/Fcl034.jpg,,,0.0,1.0
+362,clark nevus,3,typical,irregular,localized irregular,absent,irregular,absent,absent,medium,flat,chest,male,excision,FCL/Fcl035.jpg,FCL/Fcl036.jpg,,,0.0,1.0
+363,clark nevus,2,absent,absent,absent,blue areas,irregular,absent,absent,medium,palpable,abdomen,male,excision,FCL/FCL037.JPG,FCL/Fcl038.jpg,,,0.0,1.0
+365,clark nevus,1,typical,absent,absent,combinations,regular,absent,absent,medium,palpable,back,female,clinical follow up,FCL/FCL047.JPG,FCL/Fcl048.jpg,,,0.0,1.0
+367,clark nevus,2,typical,absent,diffuse irregular,blue areas,regular,absent,absent,medium,palpable,chest,male,excision,FCL/Fcl051.jpg,FCL/FCL052.JPG,,,0.0,1.0
+369,clark nevus,0,typical,regular,diffuse regular,absent,regular,absent,absent,low,flat,lower limbs,female,clinical follow up,FCL/FCL069.JPG,FCL/Fcl070.jpg,,,0.0,1.0
+375,clark nevus,2,typical,absent,absent,combinations,irregular,absent,absent,medium,flat,lower limbs,male,excision,FCL/Fcl097.jpg,FCL/Fcl098.jpg,,,0.0,1.0
+378,clark nevus,3,typical,irregular,absent,absent,regular,present,absent,high,palpable,lower limbs,female,excision,FEL/Fel017.jpg,FEL/Fel018.jpg,,,0.0,1.0
+381,clark nevus,3,atypical,absent,absent,blue areas,regular,absent,within regression,high,flat,abdomen,female,excision,FEL/Fel033.jpg,FEL/Fel034.jpg,,,0.0,1.0
+383,clark nevus,0,typical,absent,diffuse regular,absent,regular,absent,absent,low,flat,abdomen,female,clinical follow up,FEL/Fel063.jpg,FEL/Fel064.jpg,,,0.0,1.0
+389,clark nevus,1,typical,absent,absent,blue areas,regular,absent,absent,medium,flat,lower limbs,male,clinical follow up,FEL/Fel085.jpg,FEL/Fel086.jpg,,,0.0,1.0
+394,clark nevus,2,atypical,absent,absent,absent,regular,absent,absent,medium,flat,back,female,clinical follow up,FFL/Ffl003.jpg,FFL/FFL004.JPG,,,0.0,1.0
+395,clark nevus,0,typical,absent,diffuse regular,absent,absent,absent,absent,low,palpable,chest,female,clinical follow up,FFL/Ffl005.jpg,FFL/FFL006.JPG,,,0.0,1.0
+405,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,palpable,lower limbs,female,clinical follow up,FDL/Fdl001.jpg,FDL/Fdl002.jpg,,,0.0,1.0
+408,clark nevus,2,typical,absent,absent,blue areas,irregular,absent,absent,medium,palpable,head neck,male,excision,FDL/Fdl027.jpg,FDL/Fdl028.jpg,,,0.0,1.0
+412,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,chest,female,clinical follow up,Fgl/Fgl001.jpg,Fgl/Fgl002.jpg,,,0.0,1.0
+417,clark nevus,4,typical,irregular,diffuse irregular,combinations,irregular,absent,absent,high,palpable,chest,male,excision,Ggl/Ggl061.jpg,Ggl/Ggl062.jpg,,,0.0,1.0
+420,clark nevus,0,typical,absent,absent,absent,regular,absent,comma,low,palpable,chest,male,clinical follow up,Ggl/Ggl075.jpg,Ggl/Ggl076.jpg,,,0.0,1.0
+421,clark nevus,1,typical,absent,absent,blue areas,regular,absent,absent,medium,palpable,back,male,clinical follow up,Ggl/Ggl077.jpg,Ggl/Ggl078.jpg,,,0.0,1.0
+422,clark nevus,1,typical,absent,diffuse regular,absent,irregular,absent,absent,medium,flat,chest,female,excision,Ggl/Ggl087.jpg,Ggl/Ggl088.jpg,,,0.0,1.0
+423,clark nevus,0,typical,absent,diffuse regular,absent,absent,absent,absent,low,palpable,back,female,clinical follow up,Fgl/Fgl003.jpg,Fgl/Fgl036.jpg,,,0.0,1.0
+424,clark nevus,2,atypical,absent,absent,absent,regular,absent,absent,medium,flat,back,male,excision,Fgl/Fgl009.jpg,Fgl/Fgl008.jpg,,,0.0,1.0
+425,clark nevus,0,typical,absent,absent,absent,absent,absent,absent,low,flat,back,male,clinical follow up,Fgl/Fgl022.jpg,Fgl/Fgl010.jpg,,,0.0,1.0
+427,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,medium,flat,back,male,clinical follow up,Fgl/Fgl013.jpg,Fgl/Fgl014.jpg,,,0.0,1.0
+431,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,medium,flat,back,male,clinical follow up,Fgl/Fgl041.jpg,Fgl/Fgl042.jpg,,,0.0,1.0
+433,clark nevus,0,typical,absent,absent,absent,regular,absent,comma,medium,flat,chest,male,excision,Fgl/Fgl050.jpg,Fgl/Fgl051.jpg,,,0.0,1.0
+439,clark nevus,1,typical,absent,absent,absent,irregular,absent,absent,medium,flat,upper limbs,female,clinical follow up,Fhl/Fhl031.jpg,Fhl/Fhl032.jpg,,,0.0,1.0
+442,clark nevus,2,absent,absent,absent,blue areas,irregular,absent,absent,high,flat,lower limbs,female,excision,Fhl/Fhl039.jpg,Fhl/Fhl040.jpg,,,0.0,1.0
+445,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,male,clinical follow up,Fhl/Fhl065.jpg,Fhl/Fhl066.jpg,,,0.0,1.0
+447,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,male,clinical follow up,Fhl/Fhl071.jpg,Fhl/Fhl072.jpg,,,0.0,1.0
+448,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,male,clinical follow up,Fhl/Fhl073.jpg,Fhl/Fhl074.jpg,,,0.0,1.0
+449,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,abdomen,male,clinical follow up,Fhl/Fhl075.jpg,Fhl/Fhl076.jpg,,,0.0,1.0
+450,clark nevus,0,typical,absent,absent,absent,regular,absent,comma,low,palpable,back,male,clinical follow up,Fhl/Fhl077.jpg,Fhl/Fhl078.jpg,,,0.0,1.0
+451,clark nevus,0,typical,absent,absent,absent,absent,absent,comma,low,flat,back,male,clinical follow up,Fhl/Fhl079.jpg,Fhl/Fhl080.jpg,,,0.0,1.0
+452,clark nevus,1,absent,absent,absent,white areas,regular,absent,within regression,medium,flat,back,male,clinical follow up,Fhl/Fhl081.jpg,Fhl/Fhl082.jpg,,,0.0,1.0
+455,clark nevus,1,typical,absent,absent,absent,irregular,absent,comma,medium,palpable,back,male,excision,Fhl/Fhl087.jpg,Fhl/Fhl088.jpg,,,0.0,1.0
+456,clark nevus,1,typical,absent,absent,blue areas,regular,absent,comma,medium,palpable,abdomen,male,excision,Fhl/Fhl089.jpg,Fhl/Fhl090.jpg,,,0.0,1.0
+457,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,male,clinical follow up,Fhl/Fhl091.jpg,Fhl/Fhl092.jpg,,,0.0,1.0
+458,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,abdomen,male,clinical follow up,Fhl/Fhl093.jpg,Fhl/Fhl094.jpg,,,0.0,1.0
+461,clark nevus,0,typical,absent,absent,absent,regular,absent,absent,low,flat,back,male,clinical follow up,Fhl/Fhl099.jpg,Fhl/Fhl100.jpg,,,0.0,1.0
+464,clark nevus,4,atypical,absent,absent,blue areas,irregular,absent,absent,high,flat,back,female,excision,Fml/Fml009.jpg,Fml/Fml010.jpg,,,0.0,1.0
+465,clark nevus,2,typical,absent,absent,blue areas,irregular,absent,absent,high,flat,abdomen,female,excision,Fml/Fml019.jpg,Fml/Fml020.jpg,,,0.0,1.0
+466,clark nevus,1,typical,absent,diffuse irregular,absent,absent,absent,absent,high,palpable,lower limbs,female,excision,Fil/Fil087.jpg,Fil/Fil088.jpg,,,0.0,1.0
+468,clark nevus,0,absent,absent,absent,absent,regular,absent,absent,medium,palpable,abdomen,male,clinical follow up,NML/Nml066.jpg,NML/Nml067.jpg,,,0.0,1.0
+577,melanoma (in situ),3,absent,irregular,absent,combinations,irregular,absent,absent,low,palpable,upper limbs,female,excision,NAL/Nal019.jpg,NAL/Nal020.jpg,,,1.0,0.0
+578,melanoma (in situ),7,atypical,irregular,localized irregular,absent,irregular,present,absent,medium,palpable,lower limbs,female,excision,NAL/Nal021.jpg,NAL/Nal022.jpg,,,1.0,0.0
+579,melanoma (in situ),1,typical,absent,absent,white areas,regular,absent,within regression,medium,flat,chest,male,excision,NAL/Nal039.jpg,NAL/Nal037.jpg,,,1.0,0.0
+580,melanoma (in situ),3,atypical,absent,absent,absent,irregular,absent,absent,high,flat,upper limbs,male,excision,NAL/Nal045.jpg,NAL/Nal044.jpg,,,1.0,0.0
+581,melanoma (in situ),8,atypical,irregular,diffuse irregular,combinations,irregular,present,within regression,low,palpable,lower limbs,female,excision,NAL/Nal046.jpg,NAL/Nal047.jpg,,,1.0,0.0
+582,melanoma (in situ),4,absent,irregular,diffuse irregular,blue areas,irregular,absent,within regression,medium,palpable,head neck,male,excision,NAL/Nal067.jpg,NAL/Nal066.jpg,,,1.0,0.0
+583,melanoma (in situ),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,low,flat,back,male,excision,NAL/Nal074.jpg,NAL/Nal073.jpg,,,1.0,0.0
+584,melanoma (in situ),5,atypical,absent,diffuse irregular,combinations,irregular,absent,absent,medium,flat,upper limbs,female,excision,NAL/Nal076.jpg,NAL/Nal075.jpg,,,1.0,0.0
+585,melanoma (in situ),6,atypical,absent,absent,combinations,irregular,present,within regression,low,palpable,back,male,excision,NAL/Nal078.jpg,NAL/Nal077.jpg,,,1.0,0.0
+586,melanoma (in situ),4,atypical,absent,absent,blue areas,irregular,absent,absent,medium,flat,head neck,male,excision,NAL/Nal079.jpg,NAL/Nal080.jpg,,,1.0,0.0
+587,melanoma (in situ),4,atypical,absent,absent,blue areas,irregular,absent,absent,low,flat,head neck,male,excision,NAL/Nal081.jpg,NAL/Nal082.jpg,,,1.0,0.0
+588,melanoma (in situ),2,typical,regular,diffuse irregular,absent,irregular,absent,absent,high,flat,abdomen,male,excision,NAL/Nal083.jpg,NAL/Nal084.jpg,,,1.0,0.0
+589,melanoma (in situ),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,medium,flat,head neck,female,excision,NAL/Nal087.jpg,NAL/Nal088.jpg,,,1.0,0.0
+590,melanoma (in situ),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,low,flat,head neck,female,excision,NAL/Nal089.jpg,NAL/Nal090.jpg,,,1.0,0.0
+591,melanoma (in situ),4,atypical,absent,absent,blue areas,irregular,absent,absent,medium,flat,head neck,male,excision,NAL/Nal051.jpg,NAL/Nal052.jpg,,,1.0,0.0
+592,melanoma (in situ),6,atypical,irregular,diffuse irregular,combinations,irregular,absent,absent,low,palpable,lower limbs,male,excision,NAL/Nal100.jpg,NAL/Nal099.jpg,1a1009998,,1.0,0.0
+593,melanoma (in situ),4,atypical,absent,absent,combinations,irregular,absent,absent,medium,flat,back,female,excision,NBL/Nbl002.jpg,NBL/Nbl001.jpg,,,1.0,0.0
+594,melanoma (in situ),4,atypical,absent,absent,blue areas,irregular,absent,absent,medium,flat,head neck,male,excision,NBL/Nbl008.jpg,NBL/Nbl007.jpg,,,1.0,0.0
+595,melanoma (in situ),5,atypical,absent,diffuse irregular,combinations,irregular,absent,absent,low,palpable,abdomen,male,excision,NBL/Nbl009.jpg,NBL/Nbl010.jpg,1b91011,,1.0,0.0
+596,melanoma (in situ),3,atypical,absent,localized regular,absent,irregular,absent,absent,high,flat,abdomen,male,excision,NBL/Nbl012.jpg,NBL/Nbl013.jpg,,,1.0,0.0
+597,melanoma (in situ),4,typical,absent,diffuse irregular,absent,irregular,present,absent,low,palpable,back,female,excision,NBL/Nbl014.jpg,NBL/Nbl015.jpg,,,1.0,0.0
+598,melanoma (in situ),7,atypical,irregular,localized irregular,absent,irregular,present,absent,low,palpable,back,female,excision,NBL/Nbl023.jpg,NBL/Nbl022.jpg,,,1.0,0.0
+599,melanoma (in situ),5,atypical,absent,diffuse irregular,blue areas,irregular,absent,within regression,low,flat,head neck,female,excision,NBL/Nbl026.jpg,NBL/Nbl025.jpg,1b262524,,1.0,0.0
+600,melanoma (in situ),4,atypical,absent,absent,combinations,irregular,absent,absent,low,palpable,abdomen,male,excision,NBL/Nbl032.jpg,NBL/Nbl031.jpg,,,1.0,0.0
+601,melanoma (in situ),3,atypical,absent,absent,absent,irregular,absent,absent,high,flat,head neck,male,excision,NFL/Nfl053.jpg,NFL/Nfl054.jpg,,,1.0,0.0
+602,melanoma (in situ),6,atypical,irregular,absent,absent,irregular,present,absent,medium,palpable,chest,male,excision,NGL/Ngl001.jpg,NGL/Ngl002.jpg,,,1.0,0.0
+603,melanoma (in situ),6,atypical,irregular,diffuse irregular,combinations,irregular,absent,absent,low,flat,abdomen,male,excision,NGL/NGL009.JPG,NGL/NGL010.JPG,,,1.0,0.0
+604,melanoma (in situ),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,low,palpable,back,female,excision,NGL/Ngl061.jpg,NGL/Ngl062.jpg,,,1.0,0.0
+605,melanoma (in situ),3,atypical,irregular,absent,absent,regular,absent,absent,high,palpable,chest,male,excision,NGL/Ngl067.jpg,NGL/Ngl068.jpg,,,1.0,0.0
+606,melanoma (in situ),5,atypical,absent,diffuse irregular,white areas,irregular,absent,within regression,high,flat,head neck,male,excision,NGL/Ngl083.jpg,NGL/Ngl084.jpg,,,1.0,0.0
+607,melanoma (in situ),4,atypical,absent,absent,blue areas,irregular,absent,absent,high,palpable,chest,male,excision,NHL/Nhl008.jpg,NHL/Nhl009.jpg,,,1.0,0.0
+608,melanoma (in situ),6,atypical,irregular,diffuse irregular,blue areas,irregular,absent,absent,high,flat,upper limbs,male,excision,NIL/Nil030.jpg,NIL/Nil031.jpg,,,1.0,0.0
+609,melanoma (in situ),3,atypical,absent,absent,absent,irregular,absent,absent,high,palpable,lower limbs,male,excision,NIL/Nil079.jpg,NIL/Nil080.jpg,,,1.0,0.0
+610,melanoma (in situ),3,typical,absent,absent,absent,irregular,present,absent,medium,palpable,back,male,excision,NIL/Nil083.jpg,NIL/Nil084.jpg,,,1.0,0.0
+611,melanoma (in situ),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,high,flat,back,male,excision,Adl/Adl300.jpg,Adl/Adl301.jpg,,,1.0,0.0
+612,melanoma (in situ),3,typical,irregular,localized irregular,absent,irregular,absent,absent,high,flat,back,male,excision,Ael/Ael495.jpg,Ael/Ael496.jpg,,,1.0,0.0
+613,melanoma (in situ),2,atypical,absent,absent,absent,absent,absent,absent,high,flat,back,female,excision,Gzl/gzl19.jpg,Gzl/gzl20.jpg,,,1.0,0.0
+614,melanoma (in situ),5,atypical,irregular,absent,combinations,irregular,absent,absent,low,flat,lower limbs,male,excision,Gzl/gzl27.jpg,Gzl/gzl28.jpg,,,1.0,0.0
+615,melanoma (in situ),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,low,flat,back,male,excision,Gal/Gal239.jpg,Gal/Gal240.jpg,,,1.0,0.0
+616,melanoma (in situ),4,atypical,irregular,localized irregular,absent,absent,absent,absent,low,flat,upper limbs,female,excision,Gal/Gal038.jpg,Gal/Gal039.jpg,,,1.0,0.0
+617,melanoma (in situ),5,atypical,absent,diffuse irregular,blue areas,irregular,absent,absent,low,flat,head neck,female,excision,Gal/Gal184.jpg,Gal/Gal185.jpg,3a18418518,,1.0,0.0
+618,melanoma (in situ),3,atypical,absent,diffuse irregular,absent,absent,absent,absent,high,palpable,lower limbs,female,excision,FBL/Fbl025.jpg,FBL/FBL026.JPG,,,1.0,0.0
+619,melanoma (in situ),3,atypical,absent,absent,blue areas,regular,absent,absent,medium,flat,upper limbs,female,excision,FBL/Fbl027.jpg,FBL/Fbl028.jpg,,,1.0,0.0
+620,melanoma (in situ),4,atypical,absent,absent,blue areas,irregular,absent,absent,high,flat,head neck,female,excision,FCL/FCL021.JPG,FCL/Fcl022.jpg,,,1.0,0.0
+621,melanoma (in situ),3,typical,irregular,absent,combinations,irregular,absent,absent,medium,palpable,back,male,excision,FCL/Fcl039.jpg,FCL/Fcl040.jpg,,,1.0,0.0
+622,melanoma (in situ),3,atypical,absent,absent,absent,irregular,absent,absent,high,flat,upper limbs,male,excision,FCL/Fcl043.jpg,FCL/Fcl044.jpg,,,1.0,0.0
+623,melanoma (in situ),3,atypical,irregular,absent,absent,absent,absent,absent,high,palpable,back,male,excision,FCL/Fcl057.jpg,FCL/FCL058.JPG,,,1.0,0.0
+624,melanoma (in situ),3,atypical,irregular,absent,absent,regular,absent,absent,high,flat,upper limbs,female,excision,FCL/FCL073.JPG,FCL/FCL074.JPG,,,1.0,0.0
+625,melanoma (in situ),4,atypical,irregular,absent,absent,irregular,absent,absent,low,flat,lower limbs,female,excision,FFL/Ffl079.jpg,FFL/Ffl080.jpg,,,1.0,0.0
+626,melanoma (in situ),3,typical,absent,diffuse irregular,combinations,irregular,absent,within regression,low,flat,chest,male,excision,FDL/Fdl013.jpg,FDL/Fdl014.jpg,,,1.0,0.0
+627,melanoma (in situ),4,typical,irregular,diffuse irregular,blue areas,irregular,absent,absent,high,flat,lower limbs,female,excision,FDL/FDL035.JPG,FDL/FDL036.JPG,,,1.0,0.0
+628,melanoma (in situ),4,atypical,absent,absent,combinations,irregular,absent,within regression,low,nodular,back,female,excision,Gcl/Gcl001.jpg,Gcl/Gcl003.jpg,,,1.0,0.0
+629,melanoma (in situ),6,atypical,irregular,diffuse irregular,absent,absent,absent,dotted,medium,palpable,lower limbs,male,excision,Gdl/Gdl035.jpg,Gdl/Gdl037.jpg,,,1.0,0.0
+630,melanoma (in situ),1,absent,regular,absent,absent,irregular,absent,absent,high,flat,acral,male,excision,Ggl/Ggl035.jpg,Ggl/Ggl036.jpg,,,1.0,0.0
+631,melanoma (in situ),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,medium,flat,back,female,excision,Ggl/Ggl067.jpg,Ggl/Ggl068.jpg,,,1.0,0.0
+632,melanoma (in situ),4,typical,irregular,diffuse irregular,blue areas,irregular,absent,absent,high,flat,buttocks,female,excision,Fll/Fll084.jpg,Fll/Fll085.jpg,,,1.0,0.0
+633,melanoma (in situ),4,atypical,irregular,absent,absent,irregular,absent,absent,high,flat,lower limbs,male,excision,Fgl/Fgl017.jpg,Fgl/Fgl018.jpg,,,1.0,0.0
+634,melanoma (in situ),3,atypical,absent,absent,blue areas,absent,absent,within regression,medium,flat,head neck,female,excision,Fgl/Fgl028.jpg,Fgl/Fgl029.jpg,,,1.0,0.0
+635,melanoma (in situ),2,typical,absent,localized irregular,absent,irregular,absent,absent,medium,palpable,back,female,excision,Fgl/Fgl056.jpg,Fgl/Fgl057.jpg,,,1.0,0.0
+636,melanoma (in situ),4,atypical,irregular,absent,absent,irregular,absent,absent,high,flat,abdomen,male,excision,Fil/Fil003.jpg,Fil/Fil004.jpg,,,1.0,0.0
+637,melanoma (in situ),4,atypical,irregular,diffuse irregular,absent,absent,absent,absent,low,flat,buttocks,female,excision,Fll/Fll121.jpg,Fll/Fll122.jpg,,,1.0,0.0
+638,melanoma (in situ),5,atypical,irregular,absent,blue areas,irregular,absent,absent,high,flat,back,male,excision,Fil/Fil051.jpg,Fil/Fil052.jpg,,,1.0,0.0
+639,melanoma (in situ),5,atypical,irregular,absent,blue areas,irregular,absent,absent,high,flat,abdomen,female,excision,Fil/Fil069.jpg,Fil/Fil070.jpg,,,1.0,0.0
+640,melanoma (in situ),3,atypical,absent,absent,combinations,absent,absent,within regression,medium,flat,head neck,male,excision,New/newl052.jpg,New/newl053.jpg,,,1.0,0.0
+641,melanoma (less than 0.76 mm),8,atypical,irregular,diffuse irregular,combinations,irregular,present,absent,low,palpable,back,female,excision,NAL/Nal007.jpg,NAL/Nal005.jpg,1a7546,,1.0,0.0
+642,melanoma (less than 0.76 mm),3,absent,absent,absent,absent,irregular,present,absent,high,nodular,chest,female,excision,NAL/Nal017.jpg,NAL/Nal018.jpg,,,1.0,0.0
+643,melanoma (less than 0.76 mm),6,typical,absent,absent,combinations,irregular,present,dotted,low,palpable,back,male,excision,NAL/Nal026.jpg,NAL/Nal025.jpg,,,1.0,0.0
+644,melanoma (less than 0.76 mm),4,atypical,irregular,absent,absent,irregular,absent,absent,medium,nodular,back,female,excision,NAL/Nal034.jpg,NAL/Nal033.jpg,1a343332,,1.0,0.0
+645,melanoma (less than 0.76 mm),4,absent,irregular,diffuse irregular,white areas,irregular,absent,absent,low,palpable,upper limbs,female,excision,NAL/Nal036.jpg,NAL/Nal035.jpg,,,1.0,0.0
+646,melanoma (less than 0.76 mm),5,atypical,irregular,absent,combinations,irregular,absent,absent,low,palpable,abdomen,female,excision,NAL/Nal050.jpg,NAL/Nal049.jpg,,,1.0,0.0
+647,melanoma (less than 0.76 mm),6,atypical,irregular,absent,absent,irregular,present,absent,low,palpable,lower limbs,female,excision,NAL/Nal056.jpg,NAL/Nal057.jpg,,,1.0,0.0
+648,melanoma (less than 0.76 mm),3,absent,absent,diffuse irregular,blue areas,irregular,absent,within regression,low,palpable,head neck,male,excision,NAL/Nal060.jpg,NAL/Nal058.jpg,,,1.0,0.0
+649,melanoma (less than 0.76 mm),6,atypical,irregular,diffuse irregular,combinations,irregular,absent,within regression,low,palpable,back,female,excision,NAL/Nal065.jpg,NAL/Nal064.jpg,,,1.0,0.0
+650,melanoma (less than 0.76 mm),6,absent,irregular,diffuse irregular,combinations,irregular,absent,dotted,low,palpable,lower limbs,female,excision,NAL/Nal068.jpg,NAL/Nal070.jpg,1a686970,,1.0,0.0
+651,melanoma (less than 0.76 mm),7,atypical,irregular,absent,combinations,irregular,present,within regression,low,palpable,lower limbs,female,excision,NAL/NAL085.JPG,NAL/Nal086.jpg,,,1.0,0.0
+652,melanoma (less than 0.76 mm),6,atypical,irregular,absent,absent,irregular,present,absent,low,palpable,abdomen,female,excision,NAL/Nal092.jpg,NAL/Nal091.jpg,,,1.0,0.0
+653,melanoma (less than 0.76 mm),3,absent,absent,diffuse irregular,white areas,irregular,absent,within regression,medium,palpable,lower limbs,female,excision,NAL/Nal096.jpg,NAL/nal095.jpg,,,1.0,0.0
+654,melanoma (less than 0.76 mm),4,atypical,irregular,absent,absent,irregular,absent,absent,low,palpable,abdomen,male,excision,NAL/nal097bis.jpg,NAL/Nal097.jpg,,,1.0,0.0
+655,melanoma (less than 0.76 mm),6,atypical,irregular,diffuse irregular,combinations,irregular,absent,absent,medium,flat,head neck,male,excision,NBL/Nbl003.jpg,NBL/Nbl004.jpg,,,1.0,0.0
+656,melanoma (less than 0.76 mm),4,typical,irregular,absent,absent,irregular,present,absent,low,palpable,back,female,excision,NBL/Nbl005.jpg,NBL/Nbl006.jpg,,,1.0,0.0
+657,melanoma (less than 0.76 mm),8,atypical,irregular,localized irregular,combinations,irregular,present,absent,low,palpable,chest,male,excision,NBL/Nbl018.jpg,NBL/Nbl017.jpg,,,1.0,0.0
+658,melanoma (less than 0.76 mm),9,atypical,irregular,diffuse irregular,absent,irregular,present,linear irregular,low,palpable,chest,female,excision,NBL/NBL021.JPG,NBL/Nbl019.jpg,1b211920,,1.0,0.0
+659,melanoma (less than 0.76 mm),4,atypical,absent,diffuse irregular,absent,irregular,absent,absent,medium,palpable,head neck,female,excision,NBL/Nbl027.jpg,NBL/Nbl028.jpg,,,1.0,0.0
+660,melanoma (less than 0.76 mm),4,absent,irregular,absent,absent,irregular,present,absent,low,palpable,back,female,excision,NBL/Nbl029.jpg,NBL/Nbl030.jpg,,,1.0,0.0
+661,melanoma (less than 0.76 mm),6,absent,irregular,diffuse irregular,combinations,irregular,present,absent,low,flat,back,male,excision,NBL/Nbl033.jpg,NBL/Nbl034.jpg,,,1.0,0.0
+662,melanoma (less than 0.76 mm),3,absent,irregular,absent,white areas,irregular,absent,within regression,high,flat,back,female,excision,NFL/Nfl062.jpg,NFL/Nfl063.jpg,,,1.0,0.0
+663,melanoma (less than 0.76 mm),3,atypical,absent,absent,white areas,regular,absent,absent,high,flat,upper limbs,female,excision,NFL/Nfl069.jpg,NFL/nfl070.jpg,,,1.0,0.0
+664,melanoma (less than 0.76 mm),5,atypical,irregular,absent,combinations,irregular,absent,absent,medium,palpable,upper limbs,female,excision,NFL/Nfl071.jpg,NFL/nfl072.jpg,,,1.0,0.0
+665,melanoma (less than 0.76 mm),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,medium,palpable,back,male,excision,NGL/Ngl007.jpg,NGL/Ngl008.jpg,,,1.0,0.0
+666,melanoma (less than 0.76 mm),5,atypical,irregular,absent,combinations,irregular,absent,absent,medium,flat,lower limbs,female,excision,NGL/Ngl012.jpg,NGL/Ngl013.jpg,,,1.0,0.0
+667,melanoma (less than 0.76 mm),8,atypical,irregular,diffuse irregular,blue areas,irregular,present,absent,low,palpable,chest,female,excision,NGL/Ngl016.jpg,NGL/Ngl017.jpg,,,1.0,0.0
+668,melanoma (less than 0.76 mm),4,absent,irregular,diffuse irregular,combinations,irregular,absent,absent,low,palpable,back,male,excision,NGL/Ngl018.jpg,NGL/Ngl019.jpg,,,1.0,0.0
+669,melanoma (less than 0.76 mm),5,atypical,regular,absent,absent,irregular,present,absent,high,flat,lower limbs,female,excision,NGL/Ngl020.jpg,NGL/Ngl021.jpg,,,1.0,0.0
+670,melanoma (less than 0.76 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,low,palpable,lower limbs,female,excision,NGL/NGL026.JPG,NGL/Ngl027.jpg,,,1.0,0.0
+671,melanoma (less than 0.76 mm),4,typical,regular,diffuse irregular,absent,irregular,present,absent,high,palpable,lower limbs,male,excision,NGL/Ngl038.jpg,NGL/Ngl039.jpg,,,1.0,0.0
+672,melanoma (less than 0.76 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,low,palpable,chest,female,excision,NGL/Ngl054.jpg,NGL/Ngl055.jpg,,,1.0,0.0
+673,melanoma (less than 0.76 mm),4,atypical,absent,absent,blue areas,irregular,absent,within regression,low,flat,head neck,female,excision,NGL/Ngl063.jpg,NGL/Ngl064.jpg,,,1.0,0.0
+674,melanoma (less than 0.76 mm),4,atypical,absent,diffuse irregular,absent,irregular,absent,absent,medium,palpable,upper limbs,female,excision,NGL/Ngl099.jpg,NGL/Ngl100.jpg,,,1.0,0.0
+675,melanoma (less than 0.76 mm),4,absent,irregular,absent,absent,irregular,present,absent,medium,palpable,back,male,excision,NIL/Nil065.jpg,NIL/Nil066.jpg,,,1.0,0.0
+676,melanoma (less than 0.76 mm),2,typical,absent,absent,blue areas,irregular,absent,absent,high,palpable,back,female,excision,NIL/Nil069.jpg,NIL/Nil070.jpg,,,1.0,0.0
+677,melanoma (less than 0.76 mm),5,atypical,irregular,absent,blue areas,irregular,absent,absent,medium,palpable,upper limbs,female,excision,NIL/Nil075.jpg,NIL/Nil076.jpg,,,1.0,0.0
+678,melanoma (less than 0.76 mm),5,absent,irregular,absent,combinations,irregular,present,within regression,medium,palpable,chest,male,excision,NIL/NIL077.JPG,NIL/Nil078.jpg,,,1.0,0.0
+679,melanoma (less than 0.76 mm),6,absent,irregular,diffuse irregular,combinations,irregular,present,absent,low,flat,upper limbs,female,excision,NIL/Nil087.jpg,NIL/Nil088.jpg,,,1.0,0.0
+680,melanoma (less than 0.76 mm),6,atypical,irregular,diffuse irregular,blue areas,irregular,absent,absent,medium,flat,lower limbs,male,excision,NIL/Nil095.jpg,NIL/Nil096.jpg,,,1.0,0.0
+681,melanoma (less than 0.76 mm),4,atypical,absent,absent,white areas,irregular,absent,within regression,high,flat,chest,male,excision,NIL/Nil099.jpg,NIL/Nil100.jpg,,,1.0,0.0
+682,melanoma (less than 0.76 mm),4,absent,absent,absent,white areas,irregular,present,absent,medium,palpable,back,female,excision,NIL/NIL101.JPG,NIL/Nil103.jpg,,,1.0,0.0
+683,melanoma (less than 0.76 mm),7,atypical,irregular,absent,combinations,irregular,present,absent,low,flat,upper limbs,female,excision,NLL/Nll001.jpg,NLL/Nll002.jpg,,,1.0,0.0
+684,melanoma (less than 0.76 mm),8,atypical,irregular,diffuse irregular,combinations,irregular,present,absent,low,palpable,back,female,excision,NLL/NLL003.JPG,NLL/Nll004.jpg,,,1.0,0.0
+685,melanoma (less than 0.76 mm),6,atypical,irregular,absent,absent,irregular,present,absent,low,palpable,lower limbs,female,excision,NML/nml021bis.jpg,NML/Nml022.jpg,1m212223,,1.0,0.0
+686,melanoma (less than 0.76 mm),2,typical,absent,absent,blue areas,irregular,absent,absent,high,palpable,back,female,excision,NML/Nml076.jpg,NML/Nml077.jpg,,,1.0,0.0
+687,melanoma (less than 0.76 mm),3,absent,regular,absent,absent,irregular,present,absent,high,palpable,lower limbs,male,excision,NML/Nml078.jpg,NML/Nml079.jpg,,,1.0,0.0
+688,melanoma (less than 0.76 mm),5,absent,irregular,diffuse irregular,absent,irregular,present,absent,high,flat,lower limbs,female,excision,Adl/Adl304.jpg,Adl/Adl305.jpg,,,1.0,0.0
+689,melanoma (less than 0.76 mm),6,atypical,irregular,diffuse irregular,white areas,irregular,absent,within regression,high,palpable,back,male,excision,Adl/Adl312.jpg,Adl/Adl313.jpg,,,1.0,0.0
+690,melanoma (less than 0.76 mm),6,atypical,irregular,absent,absent,irregular,present,absent,low,palpable,upper limbs,female,excision,Ael/Ael489.jpg,Ael/Ael490.jpg,,,1.0,0.0
+691,melanoma (less than 0.76 mm),5,atypical,irregular,absent,combinations,irregular,absent,within regression,low,flat,head neck,female,excision,Ael/Ael491.jpg,Ael/Ael492.jpg,,,1.0,0.0
+692,melanoma (less than 0.76 mm),6,typical,irregular,absent,absent,irregular,present,dotted,high,flat,back,male,excision,Ael/Ael503.jpg,Ael/Ael504.jpg,,,1.0,0.0
+693,melanoma (less than 0.76 mm),3,absent,absent,absent,absent,irregular,present,absent,low,flat,lower limbs,female,excision,Gzl/gzl03.jpg,Gzl/gzl04.jpg,,,1.0,0.0
+694,melanoma (less than 0.76 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,low,palpable,back,female,excision,Gzl/gzl15.jpg,Gzl/gzl16.jpg,,,1.0,0.0
+695,melanoma (less than 0.76 mm),3,absent,irregular,diffuse irregular,absent,irregular,absent,absent,medium,palpable,head neck,female,excision,Gzl/gzl75.jpg,Gzl/gzl76.jpg,,,1.0,0.0
+696,melanoma (less than 0.76 mm),5,atypical,irregular,absent,blue areas,irregular,absent,absent,low,flat,back,female,excision,Gzl/gzl49.jpg,Gzl/gzl50.jpg,,,1.0,0.0
+697,melanoma (less than 0.76 mm),5,atypical,irregular,absent,absent,absent,absent,dotted,low,flat,lower limbs,male,excision,Gal/Gal107.jpg,Gal/Gal108.jpg,3a10710810,,1.0,0.0
+698,melanoma (less than 0.76 mm),4,atypical,absent,diffuse irregular,absent,irregular,absent,absent,high,palpable,lower limbs,male,excision,Gal/Gal112.jpg,Gal/Gal113.jpg,3a11211311,,1.0,0.0
+699,melanoma (less than 0.76 mm),4,typical,irregular,diffuse irregular,blue areas,irregular,absent,absent,low,flat,upper limbs,female,excision,Gal/Gal145.jpg,Gal/Gal146.jpg,,,1.0,0.0
+700,melanoma (less than 0.76 mm),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,low,palpable,chest,female,excision,Gal/Gal256.jpg,Gal/Gal257.jpg,,,1.0,0.0
+701,melanoma (less than 0.76 mm),6,atypical,irregular,diffuse irregular,combinations,irregular,absent,absent,low,palpable,chest,female,excision,Gal/Gal210.jpg,Gal/Gal211.jpg,,,1.0,0.0
+702,melanoma (less than 0.76 mm),5,typical,irregular,diffuse irregular,absent,irregular,present,absent,low,palpable,upper limbs,male,excision,FAL/Fal065.jpg,FAL/FAL066.JPG,,,1.0,0.0
+703,melanoma (less than 0.76 mm),3,typical,irregular,absent,combinations,irregular,absent,within regression,medium,palpable,upper limbs,female,excision,FAL/Fal077.jpg,FAL/Fal078.jpg,,,1.0,0.0
+704,melanoma (less than 0.76 mm),3,typical,absent,localized irregular,blue areas,irregular,absent,absent,high,palpable,abdomen,female,excision,FBL/Fbl045.jpg,FBL/FBL046.JPG,,,1.0,0.0
+705,melanoma (less than 0.76 mm),5,atypical,irregular,absent,absent,absent,present,absent,high,flat,back,male,excision,FBL/Fbl049.jpg,FBL/Fbl050.jpg,,,1.0,0.0
+706,melanoma (less than 0.76 mm),3,atypical,absent,absent,absent,irregular,absent,absent,medium,palpable,back,female,excision,FBL/Fbl057.jpg,FBL/FBL058.JPG,,,1.0,0.0
+707,melanoma (less than 0.76 mm),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,low,palpable,lower limbs,female,excision,Fll/Fll026.jpg,Fll/Fll027.jpg,,,1.0,0.0
+708,melanoma (less than 0.76 mm),2,absent,absent,absent,blue areas,irregular,absent,absent,high,palpable,lower limbs,female,excision,FBL/Fbl081.jpg,FBL/Fbl082.jpg,,,1.0,0.0
+709,melanoma (less than 0.76 mm),7,atypical,irregular,absent,blue areas,irregular,present,absent,low,palpable,back,male,excision,FCL/FCL025.JPG,FCL/Fcl026.jpg,,,1.0,0.0
+710,melanoma (less than 0.76 mm),3,typical,absent,diffuse irregular,blue areas,irregular,absent,absent,low,flat,upper limbs,female,excision,FCL/Fcl059.jpg,FCL/Fcl060.jpg,,,1.0,0.0
+711,melanoma (less than 0.76 mm),8,atypical,irregular,diffuse irregular,combinations,irregular,present,absent,low,palpable,back,male,excision,Fll/Fll044.jpg,Fll/Fll045.jpg,,,1.0,0.0
+712,melanoma (less than 0.76 mm),6,atypical,irregular,diffuse irregular,combinations,irregular,absent,absent,low,palpable,chest,female,excision,FCL/Fcl099.jpg,FCL/Fcl100.jpg,,,1.0,0.0
+713,melanoma (less than 0.76 mm),5,absent,irregular,diffuse irregular,absent,irregular,present,absent,low,palpable,lower limbs,female,excision,FEL/Fel097.jpg,FEL/Fel098.jpg,,,1.0,0.0
+714,melanoma (less than 0.76 mm),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,high,palpable,lower limbs,female,excision,FFL/Ffl019.jpg,FFL/FFL020.JPG,,,1.0,0.0
+715,melanoma (less than 0.76 mm),3,absent,irregular,absent,combinations,irregular,absent,absent,medium,flat,lower limbs,female,excision,FFL/Ffl091.jpg,FFL/Ffl092.jpg,,,1.0,0.0
+716,melanoma (less than 0.76 mm),4,absent,irregular,diffuse irregular,combinations,irregular,absent,within regression,low,palpable,chest,male,excision,FFL/Ffl093.jpg,FFL/Ffl094.jpg,,,1.0,0.0
+717,melanoma (less than 0.76 mm),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,medium,flat,lower limbs,male,excision,Fll/Fll070.jpg,Fll/Fll071.jpg,,,1.0,0.0
+718,melanoma (less than 0.76 mm),3,typical,absent,absent,white areas,absent,absent,dotted,high,flat,lower limbs,female,excision,FDL/FDL055.JPG,FDL/Fdl056.jpg,,,1.0,0.0
+719,melanoma (less than 0.76 mm),6,absent,irregular,diffuse irregular,combinations,irregular,present,within regression,low,palpable,back,male,excision,Gbl/Gbl006.jpg,Gbl/Gbl009.jpg,,,1.0,0.0
+720,melanoma (less than 0.76 mm),4,absent,irregular,diffuse irregular,combinations,irregular,absent,absent,medium,palpable,head neck,female,excision,Gcl/Gcl093.jpg,Gcl/Gcl094.jpg,,,1.0,0.0
+721,melanoma (less than 0.76 mm),5,atypical,irregular,absent,absent,absent,present,absent,medium,flat,lower limbs,female,excision,Gdl/Gdl013.jpg,Gdl/Gdl014.jpg,,,1.0,0.0
+722,melanoma (less than 0.76 mm),2,absent,absent,localized irregular,blue areas,absent,absent,absent,high,palpable,abdomen,female,excision,Gdl/Gdl019.jpg,Gdl/Gdl021.jpg,,,1.0,0.0
+723,melanoma (less than 0.76 mm),7,atypical,absent,diffuse irregular,combinations,irregular,present,absent,low,palpable,back,male,excision,Gdl/Gdl024.jpg,Gdl/Gdl025.jpg,,,1.0,0.0
+724,melanoma (less than 0.76 mm),4,atypical,irregular,diffuse irregular,absent,regular,absent,absent,high,palpable,chest,female,excision,Ggl/Ggl049.jpg,Ggl/Ggl050.jpg,,,1.0,0.0
+725,melanoma (less than 0.76 mm),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,medium,palpable,chest,male,excision,Ggl/Ggl057.jpg,Ggl/Ggl058.jpg,,,1.0,0.0
+726,melanoma (less than 0.76 mm),8,atypical,irregular,diffuse irregular,combinations,irregular,present,absent,low,palpable,back,male,excision,Fll/Fll096.jpg,Fll/Fll097.jpg,,,1.0,0.0
+727,melanoma (less than 0.76 mm),4,atypical,irregular,absent,blue areas,regular,absent,absent,low,flat,lower limbs,female,excision,Fgl/Fgl081.jpg,Fgl/Fgl082.jpg,,,1.0,0.0
+728,melanoma (less than 0.76 mm),5,absent,irregular,absent,combinations,irregular,absent,linear irregular,medium,flat,lower limbs,female,excision,Fgl/Fgl085.jpg,Fgl/Fgl083.jpg,,,1.0,0.0
+729,melanoma (less than 0.76 mm),5,absent,irregular,absent,combinations,irregular,absent,linear irregular,medium,palpable,lower limbs,male,excision,Fhl/Fhl045.jpg,Fhl/Fhl046.jpg,,,1.0,0.0
+730,melanoma (less than 0.76 mm),4,atypical,irregular,localized irregular,absent,regular,absent,absent,medium,flat,back,male,excision,Fll/Fll107.jpg,Fll/Fll108.jpg,,,1.0,0.0
+731,melanoma (less than 0.76 mm),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,high,flat,lower limbs,female,excision,Fil/Fil005.jpg,Fil/Fil006.jpg,,,1.0,0.0
+732,melanoma (less than 0.76 mm),6,atypical,irregular,diffuse irregular,combinations,irregular,absent,within regression,low,flat,lower limbs,male,excision,Fll/Fll115.jpg,Fll/Fll116.jpg,,,1.0,0.0
+733,melanoma (less than 0.76 mm),6,atypical,irregular,diffuse irregular,white areas,irregular,absent,absent,medium,palpable,back,female,excision,Fll/Fll117.jpg,Fll/Fll118.jpg,,,1.0,0.0
+734,melanoma (less than 0.76 mm),6,atypical,irregular,diffuse irregular,absent,absent,absent,dotted,high,palpable,lower limbs,female,excision,Fil/Fil031.jpg,Fil/Fil032.jpg,,,1.0,0.0
+735,melanoma (less than 0.76 mm),5,atypical,irregular,diffuse irregular,absent,irregular,absent,absent,high,flat,abdomen,female,excision,Fll/Fll131.jpg,Fll/Fll132.jpg,,,1.0,0.0
+736,melanoma (less than 0.76 mm),4,atypical,irregular,absent,absent,irregular,absent,absent,medium,palpable,upper limbs,female,excision,New/newl013.jpg,New/newl014.jpg,,,1.0,0.0
+737,melanoma (less than 0.76 mm),5,atypical,absent,diffuse irregular,combinations,irregular,absent,absent,high,palpable,head neck,male,excision,New/newl031.jpg,New/newl032.jpg,,,1.0,0.0
+738,melanoma (less than 0.76 mm),3,typical,irregular,diffuse irregular,combinations,absent,absent,within regression,low,palpable,abdomen,male,excision,New/newl042.jpg,New/newl043.jpg,,,1.0,0.0
+739,melanoma (less than 0.76 mm),3,atypical,absent,absent,combinations,absent,absent,within regression,low,flat,back,male,excision,New/newl046.jpg,New/newl047.jpg,,,1.0,0.0
+740,melanoma (less than 0.76 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,low,palpable,lower limbs,female,excision,New/newl048.jpg,New/newl049.jpg,,,1.0,0.0
+741,melanoma (less than 0.76 mm),4,atypical,absent,absent,combinations,irregular,absent,absent,low,palpable,lower limbs,male,excision,New/newl050.jpg,New/newl051.jpg,,,1.0,0.0
+742,melanoma (less than 0.76 mm),5,atypical,irregular,absent,combinations,irregular,absent,absent,low,flat,back,male,excision,New/newl058.jpg,New/newl059.jpg,,,1.0,0.0
+743,melanoma (0.76 to 1.5 mm),7,absent,irregular,diffuse irregular,absent,irregular,present,linear irregular,low,palpable,acral,male,excision,NAL/Nal003.jpg,NAL/Nal002.jpg,1a321,,1.0,0.0
+744,melanoma (0.76 to 1.5 mm),4,typical,absent,diffuse irregular,absent,irregular,present,absent,low,nodular,lower limbs,male,excision,NAL/Nal009.jpg,NAL/Nal008.jpg,,,1.0,0.0
+745,melanoma (0.76 to 1.5 mm),4,typical,absent,absent,combinations,irregular,present,hairpin,medium,nodular,chest,male,excision,NBL/Nbl058.jpg,NBL/Nbl059.jpg,,,1.0,0.0
+746,melanoma (0.76 to 1.5 mm),6,absent,irregular,absent,absent,irregular,present,dotted,low,nodular,lower limbs,male,excision,NBL/Nbl061.jpg,NBL/Nbl060.jpg,,,1.0,0.0
+747,melanoma (0.76 to 1.5 mm),7,atypical,irregular,localized irregular,absent,irregular,present,absent,low,nodular,back,male,excision,NBL/Nbl062.jpg,NBL/Nbl063.jpg,,,1.0,0.0
+748,melanoma (0.76 to 1.5 mm),6,absent,absent,diffuse irregular,absent,irregular,present,linear irregular,low,palpable,lower limbs,male,excision,NBL/Nbl066.jpg,NBL/Nbl065.jpg,1b666564,,1.0,0.0
+749,melanoma (0.76 to 1.5 mm),5,absent,absent,absent,absent,irregular,present,dotted,medium,palpable,lower limbs,female,excision,NGL/NGL003.JPG,NGL/Ngl004.jpg,,,1.0,0.0
+750,melanoma (0.76 to 1.5 mm),6,absent,irregular,absent,absent,irregular,present,dotted,high,palpable,lower limbs,female,excision,NGL/Ngl024.jpg,NGL/NGL025.JPG,,,1.0,0.0
+751,melanoma (0.76 to 1.5 mm),5,absent,absent,absent,absent,irregular,present,dotted,medium,nodular,lower limbs,female,excision,NGL/Ngl040.jpg,NGL/Ngl041.jpg,,,1.0,0.0
+752,melanoma (0.76 to 1.5 mm),5,typical,irregular,absent,blue areas,irregular,present,absent,low,nodular,back,male,excision,NGL/Ngl065.jpg,NGL/Ngl066.jpg,,,1.0,0.0
+753,melanoma (0.76 to 1.5 mm),5,absent,absent,diffuse irregular,blue areas,irregular,absent,dotted,high,palpable,lower limbs,male,excision,NGL/Ngl087.jpg,NGL/Ngl088.jpg,,,1.0,0.0
+754,melanoma (0.76 to 1.5 mm),5,absent,absent,absent,absent,irregular,present,linear irregular,high,palpable,chest,female,excision,NIL/NIL063.JPG,NIL/Nil064.jpg,,,1.0,0.0
+755,melanoma (0.76 to 1.5 mm),6,absent,absent,absent,white areas,irregular,present,linear irregular,high,palpable,upper limbs,male,excision,NIL/Nil067.jpg,NIL/Nil068.jpg,,,1.0,0.0
+756,melanoma (0.76 to 1.5 mm),3,absent,absent,absent,absent,irregular,present,absent,medium,nodular,back,male,excision,NIL/Nil081.jpg,NIL/Nil082.jpg,,,1.0,0.0
+757,melanoma (0.76 to 1.5 mm),4,absent,absent,diffuse irregular,absent,irregular,present,absent,high,palpable,upper limbs,female,excision,NIL/Nil089.jpg,NIL/Nil090.jpg,,,1.0,0.0
+758,melanoma (0.76 to 1.5 mm),6,atypical,irregular,absent,absent,irregular,present,absent,low,palpable,lower limbs,female,excision,NIL/Nil092.jpg,NIL/Nil093.jpg,,,1.0,0.0
+759,melanoma (0.76 to 1.5 mm),6,absent,absent,absent,combinations,irregular,present,linear irregular,medium,palpable,abdomen,male,excision,NLL/Nll013.jpg,NLL/nll014.jpg,,,1.0,0.0
+760,melanoma (0.76 to 1.5 mm),4,absent,absent,diffuse irregular,absent,irregular,present,absent,low,palpable,lower limbs,male,excision,NML/nml024bis.jpg,NML/Nml024.jpg,1m242426,,1.0,0.0
+761,melanoma (0.76 to 1.5 mm),3,absent,absent,absent,absent,irregular,present,absent,high,nodular,back,male,excision,NML/Nml072.jpg,NML/Nml073.jpg,,,1.0,0.0
+762,melanoma (0.76 to 1.5 mm),3,absent,absent,absent,absent,irregular,present,absent,high,palpable,back,male,excision,A1l/Aal001.jpg,A1l/Aal002.jpg,,,1.0,0.0
+763,melanoma (0.76 to 1.5 mm),9,atypical,irregular,diffuse irregular,absent,irregular,present,dotted,low,palpable,upper limbs,male,excision,A1l/Aal001bis.jpg,A1l/Aal002bis.jpg,,,1.0,0.0
+764,melanoma (0.76 to 1.5 mm),8,atypical,irregular,diffuse irregular,white areas,irregular,present,within regression,low,palpable,abdomen,female,excision,Ael/Ael493.jpg,Ael/Ael494.jpg,,,1.0,0.0
+765,melanoma (0.76 to 1.5 mm),2,typical,absent,diffuse irregular,absent,irregular,absent,absent,high,nodular,back,male,excision,Gzl/gzl11.jpg,Gzl/gzl12.jpg,,,1.0,0.0
+766,melanoma (0.76 to 1.5 mm),10,atypical,irregular,diffuse irregular,combinations,irregular,present,dotted,low,nodular,abdomen,male,excision,Gzl/gzl25.jpg,Gzl/gzl26.jpg,,,1.0,0.0
+767,melanoma (0.76 to 1.5 mm),8,atypical,irregular,localized irregular,combinations,irregular,present,absent,low,nodular,upper limbs,female,excision,Gal/Gal219.jpg,Gal/Gal220.jpg,,,1.0,0.0
+768,melanoma (0.76 to 1.5 mm),8,absent,irregular,diffuse irregular,blue areas,irregular,present,dotted,low,palpable,back,male,excision,Gal/Gal261.jpg,Gal/Gal262.jpg,,,1.0,0.0
+769,melanoma (0.76 to 1.5 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,low,nodular,chest,male,excision,Gal/Gal208.jpg,Gal/Gal209.jpg,,,1.0,0.0
+770,melanoma (0.76 to 1.5 mm),7,absent,irregular,diffuse irregular,absent,irregular,present,dotted,medium,nodular,back,male,excision,FAL/Fal005.jpg,FAL/FAL006.JPG,,,1.0,0.0
+771,melanoma (0.76 to 1.5 mm),5,absent,irregular,diffuse irregular,absent,irregular,present,absent,low,palpable,back,male,excision,FAL/Fal093.jpg,FAL/FAL094.JPG,,,1.0,0.0
+772,melanoma (0.76 to 1.5 mm),5,absent,irregular,diffuse irregular,absent,irregular,present,absent,low,nodular,chest,female,excision,FBL/Fbl019.jpg,FBL/FBL020.JPG,,,1.0,0.0
+773,melanoma (0.76 to 1.5 mm),6,atypical,irregular,absent,absent,irregular,present,absent,low,palpable,back,female,excision,FCL/Fcl055.jpg,FCL/FCL056.JPG,,,1.0,0.0
+774,melanoma (0.76 to 1.5 mm),7,absent,irregular,diffuse irregular,absent,irregular,present,dotted,low,palpable,lower limbs,male,excision,Fll/Fll046.jpg,Fll/Fll047.jpg,,,1.0,0.0
+775,melanoma (0.76 to 1.5 mm),3,absent,irregular,diffuse irregular,absent,irregular,absent,absent,high,palpable,upper limbs,female,excision,FCL/Fcl083.jpg,FCL/FCL084.JPG,,,1.0,0.0
+776,melanoma (0.76 to 1.5 mm),9,atypical,irregular,absent,combinations,irregular,present,dotted,low,palpable,upper limbs,female,excision,FCL/Fcl091.jpg,FCL/Fcl092.jpg,,,1.0,0.0
+777,melanoma (0.76 to 1.5 mm),4,typical,absent,absent,combinations,irregular,present,absent,medium,palpable,lower limbs,female,excision,FFL/Ffl067.jpg,FFL/FFL068.JPG,,,1.0,0.0
+778,melanoma (0.76 to 1.5 mm),5,absent,irregular,diffuse irregular,absent,irregular,present,absent,medium,palpable,lower limbs,female,excision,Fll/Fll068.jpg,Fll/Fll069.jpg,,,1.0,0.0
+779,melanoma (0.76 to 1.5 mm),6,absent,absent,diffuse irregular,absent,irregular,present,dotted,medium,palpable,lower limbs,female,excision,Gbl/Gbl013.jpg,Gbl/Gbl014.jpg,,,1.0,0.0
+780,melanoma (0.76 to 1.5 mm),5,absent,irregular,diffuse irregular,absent,irregular,present,absent,low,palpable,back,male,excision,Gcl/Gcl057.jpg,Gcl/Gcl058.jpg,,,1.0,0.0
+781,melanoma (0.76 to 1.5 mm),4,absent,regular,diffuse irregular,absent,irregular,present,absent,high,nodular,lower limbs,female,excision,Gdl/Gdl011.jpg,Gdl/Gdl012.jpg,,,1.0,0.0
+782,melanoma (0.76 to 1.5 mm),5,absent,irregular,diffuse irregular,absent,irregular,present,absent,high,nodular,lower limbs,female,excision,Gdl/Gdl022.jpg,Gdl/Gdl023.jpg,,,1.0,0.0
+783,melanoma (0.76 to 1.5 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,medium,palpable,lower limbs,female,excision,Gdl/Gdl033.jpg,Gdl/Gdl034.jpg,,,1.0,0.0
+784,melanoma (0.76 to 1.5 mm),5,absent,irregular,diffuse irregular,absent,irregular,present,absent,medium,palpable,lower limbs,female,excision,Gdl/Gdl088.jpg,Gdl/Gdl089.jpg,,,1.0,0.0
+785,melanoma (0.76 to 1.5 mm),1,typical,absent,diffuse regular,absent,irregular,absent,absent,high,nodular,head neck,female,excision,Ggl/Ggl039.jpg,Ggl/Ggl040.jpg,,,1.0,0.0
+786,melanoma (0.76 to 1.5 mm),8,atypical,irregular,localized irregular,combinations,irregular,absent,linear irregular,medium,nodular,back,male,excision,Ggl/Ggl053.jpg,Ggl/Ggl054.jpg,,,1.0,0.0
+787,melanoma (0.76 to 1.5 mm),9,atypical,irregular,absent,white areas,irregular,present,dotted,low,nodular,lower limbs,female,excision,Fgl/Fgl032.jpg,Fgl/Fgl006.jpg,,,1.0,0.0
+788,melanoma (0.76 to 1.5 mm),1,absent,absent,absent,absent,irregular,absent,absent,high,nodular,upper limbs,male,excision,Fgl/Fgl060.jpg,Fgl/Fgl061.jpg,,,1.0,0.0
+789,melanoma (0.76 to 1.5 mm),9,atypical,irregular,diffuse irregular,absent,irregular,present,dotted,medium,palpable,lower limbs,female,excision,Fil/Fil009.jpg,Fil/Fil010.jpg,,,1.0,0.0
+790,melanoma (0.76 to 1.5 mm),6,absent,irregular,diffuse irregular,combinations,irregular,present,absent,low,nodular,lower limbs,female,excision,Fll/Fll125.jpg,Fll/Fll126.jpg,,,1.0,0.0
+791,melanoma (0.76 to 1.5 mm),4,typical,absent,diffuse irregular,absent,irregular,present,absent,low,nodular,lower limbs,female,excision,Fll/Fll127.jpg,Fll/Fll128.jpg,,,1.0,0.0
+792,melanoma (0.76 to 1.5 mm),4,absent,absent,diffuse irregular,absent,irregular,present,absent,low,palpable,chest,female,excision,Fll/Fll129.jpg,Fll/Fll130.jpg,,,1.0,0.0
+793,melanoma (0.76 to 1.5 mm),7,absent,irregular,diffuse irregular,absent,irregular,present,dotted,low,palpable,back,male,excision,Fll/Fll135.jpg,Fll/Fll136.jpg,,,1.0,0.0
+794,melanoma (0.76 to 1.5 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,low,palpable,back,male,excision,New/newl044.jpg,New/newl045.jpg,,,1.0,0.0
+795,melanoma (0.76 to 1.5 mm),9,atypical,irregular,diffuse irregular,absent,irregular,present,dotted,low,palpable,lower limbs,female,excision,New/newl054.jpg,New/newl055.jpg,,,1.0,0.0
+796,melanoma (more than 1.5 mm),6,typical,absent,diffuse irregular,absent,irregular,present,dotted,low,nodular,lower limbs,female,excision,NBL/Nbl035.jpg,NBL/Nbl037.jpg,1b353736,,1.0,0.0
+797,melanoma (more than 1.5 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,low,nodular,back,female,excision,NBL/Nbl039.jpg,NBL/Nbl040.jpg,,,1.0,0.0
+798,melanoma (more than 1.5 mm),6,atypical,absent,diffuse irregular,absent,irregular,present,absent,low,nodular,lower limbs,female,excision,NBL/NBL043.JPG,NBL/Nbl044.jpg,,,1.0,0.0
+799,melanoma (more than 1.5 mm),7,absent,irregular,diffuse irregular,absent,irregular,present,dotted,low,nodular,lower limbs,male,excision,NBL/NBL047.JPG,NBL/Nbl048.jpg,,,1.0,0.0
+800,melanoma (more than 1.5 mm),6,absent,absent,diffuse irregular,absent,irregular,present,linear irregular,low,nodular,genital areas,male,excision,NBL/NBL049.JPG,NBL/NBL049.JPG,1b514950,Replaced clinic NBL/Nbl051.jpg with derm NBL/NBL049.JPG,1.0,0.0
+801,melanoma (more than 1.5 mm),5,atypical,absent,diffuse irregular,absent,absent,present,hairpin,high,nodular,chest,female,excision,NBL/Nbl055.jpg,NBL/Nbl054.jpg,1b555453,,1.0,0.0
+802,melanoma (more than 1.5 mm),4,absent,absent,diffuse irregular,absent,irregular,present,absent,medium,nodular,lower limbs,female,excision,NBL/Nbl073.jpg,NBL/Nbl074.jpg,,,1.0,0.0
+803,melanoma (more than 1.5 mm),6,absent,irregular,absent,absent,irregular,present,dotted,low,nodular,upper limbs,male,excision,NGL/NGL005.JPG,NGL/Ngl006.jpg,,,1.0,0.0
+804,melanoma (more than 1.5 mm),5,absent,absent,absent,absent,irregular,present,linear irregular,medium,palpable,chest,male,excision,NGL/Ngl056.jpg,NGL/Ngl057.jpg,1g565758,,1.0,0.0
+805,melanoma (more than 1.5 mm),8,atypical,irregular,diffuse irregular,combinations,irregular,present,absent,low,nodular,chest,female,excision,NGL/NGL014.JPG,NGL/Ngl015.jpg,,,1.0,0.0
+806,melanoma (more than 1.5 mm),8,atypical,irregular,diffuse irregular,combinations,irregular,present,within regression,low,nodular,back,male,excision,NHL/NHL016.JPG,NHL/Nhl017.jpg,,,1.0,0.0
+807,melanoma (more than 1.5 mm),7,atypical,irregular,absent,blue areas,irregular,present,absent,low,nodular,back,male,excision,NIL/Nil061.jpg,NIL/Nil062.jpg,,,1.0,0.0
+808,melanoma (more than 1.5 mm),4,typical,absent,diffuse irregular,absent,irregular,present,absent,high,nodular,back,female,excision,NIL/Nil085.jpg,NIL/Nil086.jpg,,,1.0,0.0
+809,melanoma (more than 1.5 mm),6,absent,irregular,absent,absent,irregular,present,linear irregular,low,nodular,chest,male,excision,NML/nml019bis.jpg,NML/Nml020.jpg,,,1.0,0.0
+810,melanoma (more than 1.5 mm),3,absent,absent,absent,absent,irregular,present,absent,medium,nodular,back,female,excision,NML/Nml080.jpg,NML/Nml081.jpg,,,1.0,0.0
+811,melanoma (more than 1.5 mm),0,absent,absent,absent,absent,absent,absent,hairpin,high,nodular,back,male,excision,Ael/Ael497.jpg,Ael/Ael498.jpg,,,1.0,0.0
+812,melanoma (more than 1.5 mm),6,absent,absent,diffuse irregular,absent,irregular,present,dotted,high,nodular,abdomen,female,excision,Ael/Ael513.jpg,Ael/Ael514.jpg,,,1.0,0.0
+813,melanoma (more than 1.5 mm),10,atypical,irregular,diffuse irregular,combinations,irregular,present,linear irregular,low,nodular,lower limbs,male,excision,Gzl/gzl63.jpg,Gzl/gzl64.jpg,,,1.0,0.0
+814,melanoma (more than 1.5 mm),5,absent,absent,absent,absent,irregular,present,dotted,high,nodular,buttocks,female,excision,Gzl/gzl77.jpg,Gzl/gzl78.jpg,,,1.0,0.0
+815,melanoma (more than 1.5 mm),7,atypical,irregular,localized irregular,absent,irregular,present,absent,medium,nodular,upper limbs,female,excision,FCL/FCL053.JPG,FCL/FCL054.JPG,,,1.0,0.0
+816,melanoma (more than 1.5 mm),4,absent,irregular,localized irregular,absent,regular,present,absent,medium,palpable,lower limbs,female,excision,FCL/FCL067.JPG,FCl/Fcl068.jpg,,,1.0,0.0
+817,melanoma (more than 1.5 mm),7,absent,irregular,diffuse irregular,absent,irregular,present,linear irregular,low,nodular,chest,male,excision,FDL/Fdl051.jpg,FDL/FDL052.JPG,,,1.0,0.0
+818,melanoma (more than 1.5 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,low,nodular,lower limbs,female,excision,Gcl/Gcl038.jpg,Gcl/Gcl039.jpg,,,1.0,0.0
+819,melanoma (more than 1.5 mm),7,typical,irregular,diffuse irregular,absent,irregular,present,linear irregular,medium,nodular,chest,male,excision,Gcl/Gcl051.jpg,Gcl/Gcl052.jpg,,,1.0,0.0
+820,melanoma (more than 1.5 mm),6,absent,absent,diffuse irregular,absent,irregular,present,linear irregular,low,nodular,back,male,excision,Fgl/Fgl043.jpg,Fgl/Fgl044.jpg,,,1.0,0.0
+821,melanoma (more than 1.5 mm),7,absent,irregular,diffuse irregular,absent,irregular,present,dotted,medium,nodular,lower limbs,female,excision,Fil/Fil007.jpg,Fil/Fil008.jpg,,,1.0,0.0
+822,melanoma (more than 1.5 mm),1,absent,absent,diffuse irregular,absent,absent,absent,absent,high,nodular,upper limbs,female,excision,Fil/Fil039.jpg,Fil/Fil040.jpg,,,1.0,0.0
+823,melanoma (more than 1.5 mm),5,absent,absent,absent,absent,irregular,present,linear irregular,high,nodular,upper limbs,male,excision,New/newl035.jpg,New/newl036.jpg,1e353637,,1.0,0.0
+824,melanoma metastasis,0,absent,absent,diffuse regular,absent,absent,absent,arborizing,high,nodular,chest,male,excision,NBL/NBL041.JPG,NBL/NBL041.JPG,,Clinical missing and replaced with derm,1.0,0.0
+825,melanoma metastasis,1,absent,absent,diffuse irregular,absent,regular,absent,hairpin,high,nodular,lower limbs,female,excision,NBL/Nbl045.jpg,NBL/Nbl046.jpg,,,1.0,0.0
+826,melanoma metastasis,1,absent,absent,absent,absent,irregular,absent,absent,high,nodular,acral,male,excision,FCL/Fcl015.jpg,FCL/Fcl016.jpg,,,1.0,0.0
+827,melanoma metastasis,3,absent,absent,absent,absent,irregular,present,arborizing,high,nodular,chest,male,excision,NBL/Nbl042.jpg,NBL/Nbl042.jpg,,Clinical missing and replaced with derm,1.0,0.0
+858,reed or spitz nevus,5,atypical,regular,absent,absent,irregular,present,absent,high,palpable,upper limbs,male,excision,NDL/Ndl076.jpg,NDL/Ndl075.jpg,,,0.0,1.0
+859,reed or spitz nevus,2,typical,regular,diffuse irregular,absent,irregular,absent,absent,high,palpable,lower limbs,female,excision,NBL/Nbl087.jpg,NBL/Nbl088.jpg,,,0.0,1.0
+860,reed or spitz nevus,4,atypical,irregular,absent,absent,irregular,absent,absent,medium,flat,lower limbs,male,excision,NBL/Nbl099.jpg,NBL/Nbl100.jpg,,,0.0,1.0
+861,reed or spitz nevus,0,absent,regular,diffuse regular,absent,absent,absent,absent,medium,flat,lower limbs,female,excision,NCL/Ncl019.jpg,NCL/Ncl020.jpg,,,0.0,1.0
+862,reed or spitz nevus,5,atypical,irregular,absent,blue areas,irregular,absent,absent,high,palpable,lower limbs,male,excision,NCL/Ncl033.jpg,NCL/Ncl032.jpg,,,0.0,1.0
+863,reed or spitz nevus,6,atypical,irregular,absent,absent,irregular,present,absent,high,palpable,lower limbs,male,excision,NCL/NCL077.JPG,NCL/Ncl078.jpg,,,0.0,1.0
+864,reed or spitz nevus,6,atypical,irregular,absent,absent,irregular,present,absent,high,palpable,lower limbs,female,excision,NCL/Ncl094.jpg,NCL/Ncl093.jpg,,,0.0,1.0
+865,reed or spitz nevus,0,absent,regular,diffuse regular,absent,regular,absent,absent,low,palpable,abdomen,male,excision,NCL/Ncl096.jpg,NCL/Ncl095.jpg,,,0.0,1.0
+866,reed or spitz nevus,0,absent,regular,diffuse regular,absent,regular,absent,absent,medium,palpable,head neck,male,excision,NDL/Ndl045.jpg,NDL/Ndl046.jpg,,,0.0,1.0
+867,reed or spitz nevus,6,atypical,irregular,diffuse irregular,absent,regular,present,absent,high,palpable,buttocks,female,excision,NDL/NDL049.JPG,NDL/Ndl050.jpg,,,0.0,1.0
+868,reed or spitz nevus,0,absent,regular,diffuse regular,absent,regular,absent,absent,low,palpable,upper limbs,female,excision,NDL/Ndl051.jpg,NDL/Ndl052.jpg,,,0.0,1.0
+869,reed or spitz nevus,0,typical,regular,diffuse regular,absent,regular,absent,absent,low,palpable,chest,female,excision,NDL/NDL053.JPG,NDL/Ndl054.jpg,,,0.0,1.0
+870,reed or spitz nevus,5,atypical,regular,absent,absent,irregular,present,absent,low,palpable,lower limbs,female,excision,NDL/Ndl055.jpg,NDL/Ndl056.jpg,,,0.0,1.0
+871,reed or spitz nevus,2,absent,absent,absent,absent,regular,present,absent,medium,palpable,lower limbs,male,excision,NDL/Ndl057.jpg,NDL/Ndl058.jpg,,,0.0,1.0
+872,reed or spitz nevus,6,atypical,irregular,absent,absent,irregular,present,absent,high,palpable,buttocks,female,excision,NDL/Ndl059.jpg,NDL/Ndl060.jpg,,,0.0,1.0
+873,reed or spitz nevus,2,absent,absent,diffuse regular,absent,regular,present,absent,medium,palpable,head neck,male,excision,NDL/NDL062.JPG,NDL/Ndl061.jpg,,,0.0,1.0
+874,reed or spitz nevus,5,atypical,irregular,absent,blue areas,irregular,absent,absent,high,palpable,lower limbs,female,excision,NDL/NDL064.JPG,NDL/NDL063.JPG,,,0.0,1.0
+875,reed or spitz nevus,2,atypical,regular,absent,absent,regular,absent,absent,medium,flat,lower limbs,female,excision,NDL/Ndl067.jpg,NDL/Ndl068.jpg,,,0.0,1.0
+876,reed or spitz nevus,1,absent,absent,absent,blue areas,regular,absent,absent,medium,palpable,chest,male,excision,NDL/Ndl070.jpg,NDL/Ndl069.jpg,,,0.0,1.0
+877,reed or spitz nevus,0,absent,regular,diffuse regular,absent,absent,absent,absent,low,flat,lower limbs,male,clinical follow up,NDL/Ndl072.jpg,NDL/Ndl071.jpg,,,0.0,1.0
+878,reed or spitz nevus,1,absent,absent,absent,blue areas,regular,absent,absent,medium,palpable,lower limbs,female,clinical follow up,NDL/Ndl073.jpg,NDL/Ndl074.jpg,,,0.0,1.0
+879,reed or spitz nevus,4,atypical,regular,absent,absent,regular,present,absent,medium,palpable,upper limbs,female,clinical follow up,NDL/Ndl080.jpg,NDL/Ndl079.jpg,1d807978,,0.0,1.0
+880,reed or spitz nevus,2,absent,regular,absent,absent,regular,present,absent,medium,palpable,buttocks,male,clinical follow up,NDL/Ndl082.jpg,NDL/Ndl081.jpg,,,0.0,1.0
+881,reed or spitz nevus,1,absent,regular,diffuse regular,absent,irregular,absent,absent,low,palpable,lower limbs,female,clinical follow up,NDL/Ndl084.jpg,NDL/Ndl083.jpg,,,0.0,1.0
+882,reed or spitz nevus,2,absent,absent,absent,absent,regular,present,absent,medium,palpable,upper limbs,female,excision,NGL/Ngl028.jpg,NGL/Ngl029.jpg,,,0.0,1.0
+883,reed or spitz nevus,2,absent,regular,diffuse regular,absent,regular,present,absent,high,palpable,lower limbs,female,excision,NGL/Ngl030.jpg,NGL/Ngl031.jpg,,,0.0,1.0
+884,reed or spitz nevus,5,absent,irregular,diffuse irregular,absent,irregular,present,absent,high,nodular,lower limbs,female,excision,NGL/Ngl032.jpg,NGL/Ngl033.jpg,,,0.0,1.0
+885,reed or spitz nevus,8,atypical,irregular,absent,absent,irregular,present,dotted,high,palpable,upper limbs,female,excision,NGL/Ngl036.jpg,NGL/Ngl037.jpg,,,0.0,1.0
+886,reed or spitz nevus,5,atypical,regular,absent,absent,irregular,present,absent,medium,flat,lower limbs,female,excision,NGL/Ngl059.jpg,NGL/Ngl060.jpg,,,0.0,1.0
+887,reed or spitz nevus,3,typical,regular,diffuse irregular,blue areas,irregular,absent,absent,medium,flat,upper limbs,male,excision,NGL/Ngl077.jpg,NGL/Ngl078.jpg,,,0.0,1.0
+888,reed or spitz nevus,3,absent,irregular,absent,absent,regular,present,absent,medium,flat,lower limbs,female,excision,NIL/Nil003.jpg,NIL/Nil004.jpg,,,0.0,1.0
+889,reed or spitz nevus,3,absent,absent,absent,absent,irregular,present,absent,high,palpable,lower limbs,male,excision,NIL/Nil022.jpg,NIL/Nil023.jpg,,,0.0,1.0
+890,reed or spitz nevus,4,atypical,irregular,diffuse irregular,absent,regular,absent,absent,high,palpable,lower limbs,female,excision,NIL/Nil028.jpg,NIL/Nil029.jpg,,,0.0,1.0
+891,reed or spitz nevus,4,atypical,regular,absent,absent,regular,present,absent,medium,flat,lower limbs,female,excision,NIL/Nil040.jpg,NIL/Nil041.jpg,,,0.0,1.0
+892,reed or spitz nevus,5,atypical,regular,diffuse irregular,absent,absent,present,absent,medium,flat,back,male,excision,NIL/Nil057.jpg,NIL/Nil058.jpg,,,0.0,1.0
+893,reed or spitz nevus,1,absent,regular,diffuse irregular,absent,absent,absent,absent,low,palpable,abdomen,female,excision,NLL/Nll099.jpg,NLL/Nll100.jpg,,,0.0,1.0
+894,reed or spitz nevus,4,atypical,regular,diffuse irregular,absent,irregular,absent,absent,high,flat,lower limbs,male,excision,NML/NML009.JPG,NML/Nml010.jpg,,,0.0,1.0
+895,reed or spitz nevus,3,absent,absent,diffuse irregular,absent,regular,present,absent,high,palpable,buttocks,female,excision,NML/NML011.JPG,NML/Nml012.jpg,,,0.0,1.0
+896,reed or spitz nevus,3,absent,absent,absent,combinations,regular,absent,dotted,medium,palpable,lower limbs,female,excision,NML/NML015.JPG,NML/Nml016.jpg,,,0.0,1.0
+897,reed or spitz nevus,1,absent,regular,absent,absent,irregular,absent,absent,low,palpable,lower limbs,male,excision,NML/Nml048.jpg,NML/Nml049.jpg,,,0.0,1.0
+898,reed or spitz nevus,2,absent,regular,absent,absent,regular,present,absent,low,flat,upper limbs,male,clinical follow up,NML/NML091.jpg,NML/NML092.jpg,,,0.0,1.0
+899,reed or spitz nevus,1,absent,regular,absent,absent,irregular,absent,absent,medium,flat,acral,male,excision,NML/Nml093.jpg,NML/Nml094.jpg,,,0.0,1.0
+900,reed or spitz nevus,3,typical,regular,absent,absent,irregular,present,absent,medium,palpable,upper limbs,male,excision,NML/Nml095.jpg,NML/Nml096.jpg,,,0.0,1.0
+901,reed or spitz nevus,6,atypical,regular,diffuse irregular,absent,irregular,present,absent,high,flat,lower limbs,male,excision,Ael/Ael420.jpg,Ael/Ael421.jpg,,,0.0,1.0
+902,reed or spitz nevus,4,absent,irregular,diffuse irregular,absent,absent,present,absent,medium,flat,lower limbs,male,excision,A3l/Acl206.jpg,A3l/Acl207.jpg,,,0.0,1.0
+903,reed or spitz nevus,0,absent,absent,diffuse regular,absent,regular,absent,absent,medium,flat,upper limbs,female,clinical follow up,A3l/Acl224.jpg,A3l/Acl225.jpg,,,0.0,1.0
+904,reed or spitz nevus,0,absent,absent,absent,absent,regular,absent,absent,medium,palpable,back,male,clinical follow up,A3l/Acl294.jpg,A3l/Acl295.jpg,,,0.0,1.0
+905,reed or spitz nevus,4,absent,absent,diffuse irregular,absent,irregular,present,absent,high,palpable,lower limbs,female,excision,Adl/Adl357.jpg,Adl/Adl358.jpg,,,0.0,1.0
+906,reed or spitz nevus,0,absent,regular,diffuse regular,absent,absent,absent,absent,medium,palpable,lower limbs,female,excision,Adl/Adl394.jpg,Adl/Adl395.jpg,,,0.0,1.0
+907,reed or spitz nevus,2,absent,irregular,diffuse irregular,absent,absent,absent,absent,medium,palpable,upper limbs,male,excision,Adl/Adl398.jpg,Adl/Adl399.jpg,,,0.0,1.0
+908,reed or spitz nevus,1,absent,regular,diffuse irregular,absent,absent,absent,absent,low,flat,back,male,excision,Ael/Ael400.jpg,Ael/Ael401.jpg,,,0.0,1.0
+909,reed or spitz nevus,0,absent,regular,diffuse regular,absent,absent,absent,absent,low,palpable,upper limbs,male,excision,Ael/Ael404.jpg,Ael/Ael405.jpg,,,0.0,1.0
+910,reed or spitz nevus,0,absent,regular,diffuse regular,absent,absent,absent,absent,medium,flat,lower limbs,female,excision,Ael/Ael406.jpg,Ael/Ael407.jpg,,,0.0,1.0
+911,reed or spitz nevus,3,atypical,regular,absent,absent,irregular,absent,absent,medium,flat,back,female,excision,Ael/Ael464.jpg,Ael/Ael465.jpg,,,0.0,1.0
+912,reed or spitz nevus,3,atypical,irregular,absent,absent,regular,absent,absent,high,flat,chest,male,excision,Ael/Ael483.jpg,Ael/Ael484.jpg,,,0.0,1.0
+913,reed or spitz nevus,1,absent,irregular,diffuse regular,absent,absent,absent,absent,medium,palpable,lower limbs,female,excision,Gzl/gzl57.jpg,Gzl/gzl58.jpg,,,0.0,1.0
+914,reed or spitz nevus,3,typical,absent,absent,absent,irregular,present,absent,high,flat,upper limbs,female,excision,Gzl/gzl13.jpg,Gzl/gzl14.jpg,,,0.0,1.0
+915,reed or spitz nevus,9,atypical,irregular,diffuse irregular,absent,irregular,present,dotted,high,palpable,lower limbs,female,excision,Gal/Gal190.jpg,Gal/Gal191.jpg,,,0.0,1.0
+916,reed or spitz nevus,2,absent,regular,diffuse irregular,absent,irregular,absent,absent,low,palpable,lower limbs,female,clinical follow up,Gal/Gal221.jpg,Gal/Gal222.jpg,,,0.0,1.0
+917,reed or spitz nevus,2,absent,regular,diffuse irregular,absent,irregular,absent,absent,medium,flat,upper limbs,male,clinical follow up,Gal/Gal237.jpg,Gal/Gal238.jpg,,,0.0,1.0
+918,reed or spitz nevus,2,absent,irregular,diffuse regular,blue areas,regular,absent,absent,medium,flat,back,female,excision,FAL/Fal069.jpg,FAL/FAL070.JPG,,,0.0,1.0
+919,reed or spitz nevus,4,absent,irregular,diffuse irregular,combinations,irregular,absent,absent,high,palpable,lower limbs,female,excision,FBL/Fbl017.jpg,FBL/Fbl018.jpg,,,0.0,1.0
+920,reed or spitz nevus,5,absent,absent,absent,absent,irregular,present,dotted,medium,palpable,upper limbs,male,excision,FBL/Fbl039.jpg,FBL/Fbl040.jpg,,,0.0,1.0
+921,reed or spitz nevus,5,absent,irregular,diffuse irregular,absent,irregular,present,absent,high,palpable,lower limbs,female,excision,FBL/Fbl041.jpg,FBL/FBL042.JPG,,,0.0,1.0
+922,reed or spitz nevus,7,absent,irregular,diffuse irregular,absent,irregular,present,dotted,high,palpable,lower limbs,male,excision,FEL/Fel037.jpg,FEL/Fel038.jpg,,,0.0,1.0
+923,reed or spitz nevus,6,absent,absent,diffuse irregular,absent,irregular,present,dotted,high,nodular,lower limbs,female,excision,FEL/Fel073.jpg,FEL/Fel074.jpg,,,0.0,1.0
+924,reed or spitz nevus,1,typical,regular,absent,blue areas,regular,absent,absent,medium,palpable,abdomen,male,excision,FEL/Fel079.jpg,FEL/Fel080.jpg,,,0.0,1.0
+925,reed or spitz nevus,1,typical,absent,absent,absent,irregular,absent,absent,high,nodular,head neck,female,excision,FFL/Ffl033.jpg,FFL/Ffl034.jpg,,,0.0,1.0
+926,reed or spitz nevus,6,atypical,regular,diffuse irregular,absent,irregular,present,absent,medium,palpable,lower limbs,male,clinical follow up,FFL/Ffl083.jpg,FFL/Ffl084.jpg,,,0.0,1.0
+927,reed or spitz nevus,4,atypical,irregular,diffuse irregular,absent,regular,absent,absent,medium,flat,back,female,excision,Fll/Fll076.jpg,Fll/Fll077.jpg,,,0.0,1.0
+928,reed or spitz nevus,5,absent,irregular,diffuse irregular,absent,irregular,present,absent,high,flat,upper limbs,male,excision,Ggl/Ggl025.jpg,Ggl/Ggl026.jpg,,,0.0,1.0
+929,reed or spitz nevus,0,absent,regular,diffuse regular,absent,absent,absent,absent,low,flat,lower limbs,male,clinical follow up,Ggl/Ggl009.jpg,Ggl/Ggl010.jpg,,,0.0,1.0
+930,reed or spitz nevus,0,typical,regular,diffuse regular,absent,absent,absent,absent,low,flat,chest,female,excision,Fgl/Fgl025.jpg,Fgl/Fgl023.jpg,,,0.0,1.0
+931,reed or spitz nevus,3,typical,absent,absent,blue areas,regular,absent,dotted,high,palpable,buttocks,female,excision,Fgl/Fgl031.jpg,Fgl/Fgl037.jpg,,,0.0,1.0
+932,reed or spitz nevus,0,typical,absent,diffuse regular,absent,regular,absent,absent,medium,flat,abdomen,female,clinical follow up,Fgl/Fgl073.jpg,Fgl/Fgl074.jpg,,,0.0,1.0
+933,reed or spitz nevus,0,typical,regular,diffuse regular,absent,absent,absent,absent,low,flat,lower limbs,female,clinical follow up,Fgl/Fgl091.jpg,Fgl/Fgl087.jpg,,,0.0,1.0
+934,reed or spitz nevus,5,absent,irregular,diffuse irregular,absent,irregular,present,absent,high,nodular,upper limbs,female,excision,New/newl029.jpg,New/newl030.jpg,,,0.0,1.0
+935,reed or spitz nevus,7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,high,palpable,upper limbs,female,excision,New/newl033.jpg,New/newl034.jpg,,,0.0,1.0
+936,reed or spitz nevus,2,absent,absent,absent,absent,regular,absent,dotted,high,palpable,lower limbs,female,excision,New/newl038.jpg,New/newl039.jpg,,,0.0,1.0
+1011,melanoma,2,absent,absent,diffuse irregular,white areas,absent,absent,absent,high,palpable,lower limbs,female,excision,Adl/Adl388.jpg,Adl/Adl389.jpg,,,1.0,0.0
