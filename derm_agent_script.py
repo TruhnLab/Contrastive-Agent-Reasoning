@@ -6,6 +6,7 @@ import argparse
 import os
 import pdb
 from tqdm import tqdm
+import re
 
 def extract_decision(response):
     response_text = str(response)

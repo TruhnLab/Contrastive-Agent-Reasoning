@@ -2,7 +2,7 @@ from google import genai
 from google.genai import types
 import os
 from openai import OpenAI
-from PROMPT import INSTRUCTION_DERMA_PROMPT,ATYPICAL_NEVUS_AGENT_PROMPT,MELANOMA_AGENT_PROMPT,DERM_JUDGE_IMAGE_TEXT_AGENT_PROMPT,DERM_JUDGE_TEXT_AGENT_PROMPT
+from PROMPT import INSTRUCTION_DERMA_PROMPT
 import pandas as pd
 import ast
 import argparse
@@ -37,7 +37,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--csv_path", type=str, default='derm7pt_filtered_meta.csv',
                         help="Path to the input CSV file")
-    parser.add_argument("--output_path", type=str, default='./derm_gemini_3_flash_blind_care.csv')
+    parser.add_argument("--output_path", type=str, default='./derm_gemini_3_flash_self-check-2x.csv')
     model_name="gemini-3-flash-preview"
     # model_name="gemini-3-pro-preview"
 
@@ -51,7 +51,7 @@ if __name__ == "__main__":
     info=pd.read_csv(os.path.join(data_prefix,csv_path))
 
     results=[]
-    client = genai.Client(api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
+    client = genai.Client(api_key = "xxxxxxxxxxxxxxx")
 
 
     MAX_RETRY = 5
@@ -71,69 +71,35 @@ if __name__ == "__main__":
                 img_path_list = [row['derm']]
                 img_path_list = [os.path.join(data_prefix,"images", p) for p in img_path_list]
 
-                atypical_nevus_content_list = [
-                    ATYPICAL_NEVUS_AGENT_PROMPT
-                ]
-                melanoma_content_list = [
-                    MELANOMA_AGENT_PROMPT   
-                ]
-                judge_content_list = [
-                    DERM_JUDGE_TEXT_AGENT_PROMPT   
+                content_list = [
+                    INSTRUCTION_DERMA_PROMPT,
                 ]
                 
                 # -------------------------------
                 # -------------------------------
                 for elem in img_path_list:
                     file_data=create_file(client,elem)
-                    atypical_nevus_content_list.append(file_data)
-                    melanoma_content_list.append(file_data)
-                    # image_data=base64.standard_b64encode(httpx.get(elem).content).decode("utf-8")
-                    # media_type="image/jpeg"
-                    # content_list.append({
-                    #     "type": "image",
-                    #     "source":{
-                    #         "type":"base64",
-                    #         "media_type": media_type,
-                    #         "data":image_data,
-                    #     }
-                        
-                    # })
+                    content_list.append(file_data)
+
 
 
                 # -------------------------------
                 # -------------------------------
-                response_atypical_nevus = client.models.generate_content(
+                response_init = client.models.generate_content(
                     model=model_name,
-                    contents=atypical_nevus_content_list,
+                    contents=content_list,
                 )
-                judge_content_list.append(response_atypical_nevus.text)
-
-                response_melanoma = client.models.generate_content(
+                content_list.append(f"Here is your previous diagnosis: {response_init.text} \n\nRe-examine the IMAGE carefully.\n- Verify each claimed visual finding.\n- Identify any over-interpretation or unsupported claim.\n- Revise the diagnosis if needed.\n Your output should strictly follow the orignial format requirement.")            
+                revised_response = client.models.generate_content(
                     model=model_name,
-                    contents=melanoma_content_list,
-                )
-                judge_content_list.append(response_melanoma.text)
-
-                response_judge = client.models.generate_content(
-                    model=model_name,
-                    contents=judge_content_list,
-                )
-                # response = client.responses.create(
-                #     model="claude-sonnet-4-5",
-                #     input=[{
-                #         "role": "user",
-                #         "content": content_list
-                #     }],
-                # )
-                
-                # response_text = response.output_text
-
+                    contents=content_list,
+                ).text
                 success = True
-                break   
+                break   # 
 
             except Exception as e:
                 print(f"[Retry {attempt+1}/{MAX_RETRY}] case_id={case_id} | {e}")
-                time.sleep(2)  
+                time.sleep(2)  # 
 
         # -------------------------------
         # -------------------------------
@@ -148,9 +114,8 @@ if __name__ == "__main__":
             'Melanoma': melanoma_label,
             'Atypical_Nevus': atypical_nevus_label,
             "fine_grained_gt": gt_label,
-            "response_atypical_nevus": response_atypical_nevus.text,
-            "response_melanoma": response_melanoma.text,
-            'response': response_judge.text
+            'response_init': response_init.text,
+            'response': revised_response
         })
 
         if iter_idx % 10 == 0:
@@ -158,8 +123,8 @@ if __name__ == "__main__":
 
     
     # -------------------------------
-    # Save results to CSV
     # -------------------------------
     df_out = pd.DataFrame(results)
     df_out.to_csv(os.path.join(data_prefix,output_path), index=False)
+
 

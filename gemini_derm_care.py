@@ -37,12 +37,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--csv_path", type=str, default='derm7pt_filtered_meta.csv',
                         help="Path to the input CSV file")
-    parser.add_argument("--output_path", type=str, default='./derm_gemini_flash_care.csv')
+    parser.add_argument("--output_path", type=str, default='./derm_gemini_3_flash_care.csv')
     model_name="gemini-3-flash-preview"
     # model_name="gemini-3-pro-preview"
 
     args = parser.parse_args()
-    data_prefix=os.path.expanduser('~/Documents/data/derm7pt/')
+    data_prefix=os.path.expanduser('./data/derm7pt/')
     csv_path = args.csv_path
     output_path = args.output_path
 
@@ -57,8 +57,6 @@ if __name__ == "__main__":
     MAX_RETRY = 5
 
     for iter_idx, row in tqdm(info.iterrows(), total=len(info), desc="Processing samples"):
-        if iter_idx<=60:
-            continue
         case_id = row['case_num']
         melanoma_label = row['melanoma']
         gt_label=row['diagnosis']
@@ -69,7 +67,6 @@ if __name__ == "__main__":
         for attempt in range(MAX_RETRY):
             try:
                 # -------------------------------
-                # 解析图像路径
                 # -------------------------------
                 img_path_list = [row['derm']]
                 img_path_list = [os.path.join(data_prefix,"images", p) for p in img_path_list]
@@ -85,7 +82,6 @@ if __name__ == "__main__":
                 ]
                 
                 # -------------------------------
-                # 上传图片（网络最容易抖）
                 # -------------------------------
                 for elem in img_path_list:
                     file_data=create_file(client,elem)
@@ -106,7 +102,6 @@ if __name__ == "__main__":
 
 
                 # -------------------------------
-                # 调用模型
                 # -------------------------------
                 response_atypical_nevus = client.models.generate_content(
                     model=model_name,
@@ -135,21 +130,19 @@ if __name__ == "__main__":
                 # response_text = response.output_text
 
                 success = True
-                break   # ✅ 成功就跳出 retry 循环
+                break   #
 
             except Exception as e:
                 print(f"[Retry {attempt+1}/{MAX_RETRY}] case_id={case_id} | {e}")
-                time.sleep(2)  # 简单等待，防止立刻再炸
+                time.sleep(2)  # 
 
         # -------------------------------
-        # 5 次都失败才放弃这个 subject
         # -------------------------------
         if not success:
             print(f"[FAILED] case_id={case_id}, skipped after {MAX_RETRY} retries.")
             continue
 
         # -------------------------------
-        # 成功结果写入
         # -------------------------------
         results.append({
             'case_id': case_id,
@@ -172,5 +165,4 @@ if __name__ == "__main__":
     df_out.to_csv(os.path.join(data_prefix,output_path), index=False)
 
 
-    # print("Response from VLM:")
-    # print(response)
+  
