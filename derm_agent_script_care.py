@@ -1,37 +1,13 @@
 
-from PROMPT import INSTRUCTION_PROMPT,KNOWLEDGE_AGENT_PROMPT,INSTRUCTION_DERMA_PROMPT
+from PROMPT import INSTRUCTION_PROMPT,KNOWLEDGE_AGENT_PROMPT,INSTRUCTION_DERMA_PROMPT,ATYPICAL_NEVUS_AGENT_PROMPT,MELANOMA_AGENT_PROMPT,DERM_JUDGE_IMAGE_TEXT_AGENT_PROMPT
 import pandas as pd
 import ast
 import argparse
 import os
 import pdb
 from tqdm import tqdm
-import re
 
-def extract_decision(response):
-    response_text = str(response)
 
-    try:
-        response_text = response_text.encode().decode("unicode_escape")
-    except Exception:
-        pass
-
-    try:
-        match = re.search(
-            r'<<<FINAL_DECISION>>>.*?Finding:\s*([^\n]+)',
-            response_text,
-            re.DOTALL,
-        )
-        if match:
-            finding = match.group(1).strip()
-            if finding.lower() == "edema or pneumonia" or finding.lower() == "uncertain":
-                return "uncertain"
-
-            return finding
-    except Exception:
-        pass
-
-    return "uncertain"
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -43,10 +19,8 @@ if __name__ == "__main__":
     parser.add_argument("--output_path", type=str, default='./medgemma_1.5_4b.csv')
 
     args = parser.parse_args()
-    # data_prefix='/home/homesOnMaster/zzhao/data/derm7pt/'
-    # weights_prefix='/home/homesOnMaster/zzhao/weights/'
-    data_prefix='/hpcwork/qdt11020/data/derm7pt/'
-    weights_prefix='/hpcwork/qdt11020/weights/'
+    data_prefix='/home/homesOnMaster/zzhao/data/derm7pt/'
+    weights_prefix='/home/homesOnMaster/zzhao/weights/'
     csv_path = args.csv_path
     output_path = args.output_path
     model_name = args.model_name
@@ -93,7 +67,6 @@ if __name__ == "__main__":
 
     info=pd.read_csv(os.path.join(data_prefix,csv_path))
 
-
     results=[]
     for i, row in tqdm(info.iterrows(), total=len(info), desc="Processing samples"):
         case_id = row['case_num']
@@ -102,22 +75,44 @@ if __name__ == "__main__":
         atypical_nevus_label = row['atypical_nevus']
         img_path_list = [row['derm']]
         img_path_list = [os.path.join(data_prefix,"images", p) for p in img_path_list]
-        messages = {
+
+        atypical_nevus_messages = {
         'image': img_path_list,
-        'text':"atypical nevus or melanoma?",
-        'instruction': INSTRUCTION_DERMA_PROMPT
+        'text':"",
+        'instruction': ATYPICAL_NEVUS_AGENT_PROMPT
+        }
+        melanoma_messages = {
+        'image': img_path_list,
+        'text':"",
+        'instruction': MELANOMA_AGENT_PROMPT
         }
         # pdb.set_trace()
-        response = agent.chat(messages)
+        response_atypical_nevus = agent.chat(atypical_nevus_messages)
+        if not isinstance(response_atypical_nevus, str):
+            response_atypical_nevus = response_atypical_nevus.text
+        
+        response_melanoma = agent.chat(melanoma_messages)
+        if not isinstance(response_melanoma, str):
+            response_melanoma = response_melanoma.text
+        judge_messages = {
+        'image': img_path_list,
+        'text': f"{response_atypical_nevus}\n{response_melanoma}",
+        'instruction': DERM_JUDGE_IMAGE_TEXT_AGENT_PROMPT
+        }
+        response_judge = agent.chat(judge_messages)
+        if not isinstance(response_judge, str):
+            response_judge = response_judge.text
         # pdb.set_trace()
         results.append({
             'case_id': case_id,
             'Melanoma': melanoma_label,
             'Atypical_Nevus': atypical_nevus_label,
             "fine_grained_gt": gt_label,
-            'response': response
+            'response_atypical_nevus': response_atypical_nevus,
+            'response_melanoma': response_melanoma,
+            'response': response_judge
         })
-        if i%50==0:
+        if i%10==0:
             # -------------------------------
             # Save intermediate results to CSV
             # -------------------------------
