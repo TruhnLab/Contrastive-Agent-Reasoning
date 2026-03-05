@@ -51,5 +51,16 @@ or run the following command on your local computer as suggested in open-source-
 python [derm/cxr]_agent_script_[/care].py --model_name medvlm --output_path OUTPUT_PATH
 ```
 
-## Acknowledgement
+## 📎 Citation
+
+If you find this repository useful for your work, please cite our arXiv paper:
+
+```bibtex
+@article{zhao2026can,
+  title={Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study},
+  author={Zhao, Zihao and Hauke, Frederik and De Castilhos, Juliana and Nebelung, Sven and Truhn, Daniel},
+  journal={arXiv preprint arXiv:2602.22959},
+  year={2026}
+}
+```
 
