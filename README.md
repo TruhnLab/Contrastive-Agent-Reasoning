@@ -1,4 +1,4 @@
-# [arXiv'26] Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study  
+# [MICCAI'26] Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study  
 
 by Zihao Zhao, Frederik Hauke, Juliana De Castilhos, Sven Nebelung, and Daniel Truhn<br/>
 
